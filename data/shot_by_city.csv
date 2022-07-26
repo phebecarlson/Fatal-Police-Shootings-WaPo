@@ -11,9 +11,9 @@ Columbus,46
 Kansas City,42
 Jacksonville,42
 Tucson,42
-Austin,40
 New York,40
 Oklahoma City,39
+Austin,38
 Miami,37
 Bakersfield,34
 St. Louis,34
@@ -21,3083 +21,3101 @@ Tulsa,33
 Atlanta,31
 Louisville,30
 Philadelphia,29
-Baltimore,27
 Mesa,27
+Baltimore,27
 Washington,26
-Fresno,26
 Springfield,26
+Fresno,26
 San Diego,25
 Portland,25
 Colorado Springs,24
 Orlando,24
 San Jose,24
 Indianapolis,23
-Aurora,22
-Minneapolis,22
-Long Beach,22
 Detroit,22
-Pueblo,21
-Charlotte,21
+Long Beach,22
+Aurora,22
 Memphis,21
-Sacramento,20
-Fort Worth,20
+Charlotte,21
+Pueblo,21
 San Bernardino,20
 Lakewood,20
+Fort Worth,20
 San Francisco,20
-St. Paul,19
-El Paso,19
+Sacramento,20
 Milwaukee,19
-Glendale,18
-Seattle,18
+El Paso,19
 Arlington,18
 Dallas,18
+Seattle,18
+Glendale,18
 Cleveland,18
+Spokane,17
+Salt Lake City,17
+Lancaster,17
 Stockton,17
 Greenville,17
-Salt Lake City,17
-Spokane,17
-Lancaster,17
-Honolulu,16
+Wichita,16
 Las Cruces,16
 Jackson,16
-Wichita,16
+Honolulu,16
+Billings,15
 Amarillo,15
+Westminster,14
 Tampa,14
 Oakland,14
 Nashville,14
-Westminster,14
-Anaheim,13
-Baton Rouge,13
 Birmingham,13
-Huntsville,13
-Modesto,13
+Anaheim,13
 Redding,13
-Tacoma,13
+Huntsville,13
 Omaha,13
-Richmond,12
-Santa Ana,12
-Vancouver,12
-Wilmington,12
-Fairbanks,12
-Fayetteville,12
-Reno,12
-Savannah,12
-Lakeland,12
-Corpus Christi,12
+Baton Rouge,13
+Tacoma,13
+Modesto,13
 Clinton,12
+Vancouver,12
+Reno,12
+Fayetteville,12
+Santa Ana,12
+Lakeland,12
+Fairbanks,12
+Savannah,12
+Wilmington,12
+Richmond,12
+Corpus Christi,12
 Anchorage,11
-Tempe,11
 Evansville,11
-Auburn,11
+Boise,11
+Salem,11
+Minneapolis,11
+Farmington,11
+Shreveport,11
+Ontario,11
 Odessa,11
 Henderson,11
-Boise,11
-Shreveport,11
-Salem,11
-Farmington,11
-Ontario,11
-Columbia,10
-Boston,10
-Knoxville,10
+Tempe,11
+Auburn,11
+New Orleans,10
+St. Paul,10
+Beaumont,10
 Florence,10
 Newark,10
-New Orleans,10
-Beaumont,10
+Boston,10
+Knoxville,10
+Columbia,10
+Akron,9
+Kent,9
+Wasilla,9
+Pasadena,9
+Barstow,9
 Chattanooga,9
+Fremont,9
+Arvada,9
 Hemet,9
 Fontana,9
-Kent,9
-Charleston,9
-Fremont,9
-Akron,9
-Pasadena,9
-Wasilla,9
-Longview,9
-Arvada,9
 Little Rock,9
-Barstow,9
+Charleston,9
+Longview,9
 Riverside,9
-Gulfport,8
-Monroe,8
-Ogden,8
-Flagstaff,8
-Tallahassee,8
-Topeka,8
 Virginia Beach,8
-Durham,8
-Sparks,8
-Midland,8
-Raleigh,8
-Lincoln,8
-Chandler,8
 Clarksville,8
 Norfolk,8
-Scottsdale,8
-Toledo,8
+Tallahassee,8
+Chandler,8
+Lincoln,8
 Covington,8
+Sparks,8
+Toledo,8
+Monroe,8
+Durham,8
+Ogden,8
+Raleigh,8
+Scottsdale,8
+Gulfport,8
+Midland,8
 Canton,8
-Athens,8
+Topeka,8
 Kingman,8
-Cincinnati,7
-Peoria,7
-Rochester,7
-Houma,7
-Roswell,7
+Athens,8
+Flagstaff,8
 Syracuse,7
-Laredo,7
-Garland,7
-Harris County,7
-Rapid City,7
-Jonesboro,7
-Centennial,7
-Antioch,7
-St. Petersburg,7
 Gainesville,7
-Irving,7
+Peoria,7
+Houma,7
+Centennial,7
+Laredo,7
+Rochester,7
 Greeley,7
-Burnsville,7
-Independence,7
-Smyrna,7
-Gary,7
+Harris County,7
+Garland,7
+St. Petersburg,7
+Antioch,7
+Jonesboro,7
 Franklin,7
 Brooklyn,7
 Pensacola,7
+Roswell,7
+Rapid City,7
 Dayton,7
+Independence,7
+Cincinnati,7
 Montgomery,7
-Rialto,6
-Fairfield,6
-Gilbert,6
-Denton,6
-Paterson,6
-Buckeye,6
-Myrtle Beach,6
-Azusa,6
-Killeen,6
-Vallejo,6
-Visalia,6
-Anderson,6
-Salisbury,6
-Napa,6
-Manchester,6
-Madison,6
-Hayward,6
-Hilo,6
-Oxford,6
-Chester,6
-Alexandria,6
-Danville,6
+Smyrna,7
+Irving,7
+Gary,7
+Palmdale,6
 Casper,6
-Lawton,6
-Metairie,6
-Grand Junction,6
-Burlington,6
-Eugene,6
-Englewood,6
-Vineland,6
-Lafayette,6
-Roseville,6
-Marietta,6
-Augusta,6
+Graham,6
+Killeen,6
+Salisbury,6
 Decatur,6
 Hollywood,6
-Lake Charles,6
-St. Cloud,6
-Fort Pierce,6
-Cocoa,6
+Great Falls,6
+Hayward,6
 Meridian,6
-Graham,6
-Federal Way,6
-Deltona,6
-Eau Claire,6
-North Las Vegas,6
 Des Moines,6
-West Jordan,6
-Santa Fe,6
-Georgetown,6
-Elizabethtown,6
-Palmdale,6
+Anderson,6
+Myrtle Beach,6
+Oxford,6
 Adams County,6
-Muncie,5
-Torrance,5
-Brownsville,5
-Winchester,5
+Federal Way,6
+Azusa,6
+Visalia,6
+West Jordan,6
+Cocoa,6
+Eau Claire,6
+Deltona,6
+North Las Vegas,6
+Fort Pierce,6
+Marietta,6
+Denton,6
+Rialto,6
+Englewood,6
+Napa,6
+Vallejo,6
+Augusta,6
+Fairfield,6
+Paterson,6
+Manchester,6
+Burlington,6
+Chester,6
+Eugene,6
+Lawton,6
+Santa Fe,6
+Grand Junction,6
+Buckeye,6
+Madison,6
+Danville,6
+Metairie,6
+Georgetown,6
+Lake Charles,6
+Hilo,6
+Lafayette,6
+Elizabethtown,6
+Buffalo,5
+Garden City,5
+Lubbock,5
+Hillsboro,5
+North Charleston,5
+Boerne,5
+Lynn,5
 Pittsburgh,5
-Union Township,5
-Whittier,5
-Bradenton,5
-Bexar County,5
-Hobbs,5
+Rockford,5
+Mansfield,5
+Renton,5
 Los Lunas,5
-Huntington Beach,5
-Davenport,5
-Pomona,5
-Harrisburg,5
-Mission,5
+Whittier,5
 Idaho Falls,5
-Princeton,5
+Victorville,5
+Winchester,5
+Huntington Beach,5
+Aiken,5
 Jurupa Valley,5
 Chico,5
-Van Nuys,5
-Aiken,5
-Gastonia,5
-Waco,5
-Lexington,5
-Boerne,5
-Newton,5
-Rockford,5
-Fort Lauderdale,5
-Lubbock,5
-Buffalo,5
-Cottonwood,5
-Hillsboro,5
-Victorville,5
+Muncie,5
+Hobbs,5
+Pomona,5
 Ozark,5
+Davenport,5
 Tahlequah,5
-Mobile,5
+Fort Lauderdale,5
+Cottonwood,5
 Marion,5
-Medford,5
-Garden City,5
-Thornton,5
-Renton,5
-Lynn,5
-Spring Hill,5
-Loveland,5
-Sioux Falls,5
-Elkton,5
-Bristol,5
-Silver Spring,5
-York,5
+Mobile,5
+Van Nuys,5
 Hesperia,5
-Shelbyville,5
-Chino,5
-North Charleston,5
-Mansfield,5
-San Angelo,5
-Douglas,5
-Yuma,5
 League City,5
+York,5
+Thornton,5
+Princeton,5
+Bexar County,5
+Missoula,5
+Brownsville,5
+Yuma,5
 St. Augustine,5
-Citrus Heights,5
 Orange,5
+Douglas,5
+Harrisburg,5
+Chino,5
+Bradenton,5
+Lexington,5
+Loveland,5
+Mission,5
+Vineland,5
+Elkton,5
+Gilbert,5
+Spring Hill,5
+Waco,5
+Union Township,5
+Torrance,5
+San Angelo,5
+Silver Spring,5
+Sioux Falls,5
+Citrus Heights,5
+Newton,5
+Bristol,5
+Medford,5
+Shelbyville,5
+Gastonia,5
+Alexandria,5
 Carrollton,5
-Lompoc,4
-Commerce City,4
-San Leandro,4
-Madison County,4
-Waukesha,4
-Escondido,4
-Sedalia,4
-Casa Grande,4
-Allen,4
-Avondale,4
-Muskogee,4
-Fort Collins,4
-Newport News,4
-Northglenn,4
-Concord,4
-Clearwater,4
-New Castle,4
-Biloxi,4
-Roanoke,4
-Hattiesburg,4
-Bronx,4
-Hampton,4
-Boulder,4
-Spartanburg,4
-Stillwater,4
-Orange Park,4
-Mankato,4
-Gardena,4
-Pittsburg,4
-Ada,4
-Wadena County,4
+Hartford,4
 Blue Springs,4
-Presque Isle,4
-Trenton,4
-Riverview,4
-Eagan,4
-Marana,4
+Lompoc,4
+Salinas,4
+Concord,4
+Muskogee,4
+St. Cloud,4
+Baytown,4
+Burnsville,4
+Lexington County,4
 Highland,4
-Prescott,4
 St. Joseph,4
+Orange Park,4
 Red Bluff,4
+Terre Haute,4
+Fort Wayne,4
+Riverview,4
+Elkhart,4
+Ocala,4
+Roseville,4
+Brooksville,4
+South Bend,4
+Cape Coral,4
+Homestead,4
+San Leandro,4
+Cumberland County,4
+Palm Bay,4
+Miami Gardens,4
+Lake Jackson,4
+Trenton,4
+New Castle,4
+Pittsburg,4
+Madison County,4
+Gardena,4
 Jefferson City,4
 Joplin,4
-Brooklyn Center,4
+Nampa,4
+Escondido,4
 Liberty,4
-Phenix City,4
-Salinas,4
-Piedmont,4
-Lexington County,4
-Chickasha,4
-Sallisaw,4
-Homewood,4
-Pineville,4
-Palm Bay,4
-Gillette,4
-Hamilton,4
-DeKalb County,4
-Washington County,4
-London,4
-Morristown,4
-Hutchinson,4
-Miami Gardens,4
-Sparta,4
-Cheyenne,4
-South Gate,4
-Plano,4
-South Bend,4
-Conroe,4
-Pearland,4
-Sunnyvale,4
-Morgantown,4
-Homestead,4
-Hudson,4
-Beaverton,4
-Paris,4
-Hartford,4
+Sedalia,4
+Newport News,4
+Northglenn,4
+Commerce City,4
+Roanoke,4
+Hampton,4
 Kirkland,4
-Flint,4
-Kalamazoo,4
-Yakima,4
+Boulder,4
+Fort Collins,4
+Clearwater,4
 Dearborn,4
-Lacey,4
-Valdosta,4
-Puyallup,4
-Cumberland County,4
-West Memphis,4
-Bossier City,4
-Cobb County,4
-Franklin County,4
-Mableton,4
-Warren,4
+Allen,4
+Chickasha,4
 Cumming,4
+Warren,4
+Lenoir,4
+Greensboro,4
+Bossier City,4
+South Gate,4
+Edinburg,4
+Weatherford,4
+Sparta,4
+Casa Grande,4
+Sunnyvale,4
+Morristown,4
+Prescott,4
+Gillette,4
+Delano,4
+DeKalb County,4
+Marana,4
+El Monte,4
 Springdale,4
 Benton,4
-Delano,4
-El Monte,4
-Cape Coral,4
-Elkhart,4
+High Point,4
+Hudson,4
+Lacey,4
+Biloxi,4
+Spartanburg,4
+Paris,4
+Waukesha,4
+Franklin County,4
+Pearland,4
+Conroe,4
+Plano,4
+Hattiesburg,4
+Beaverton,4
+Pineville,4
+Piedmont,4
+Phenix City,4
+Homewood,4
+Presque Isle,4
+Washington County,4
+Bronx,4
+Morgantown,4
+Hamilton,4
+West Memphis,4
+Avondale,4
+Flint,4
+Lake Elsinore,4
+Pasco,4
+London,4
+Sallisaw,4
+Mableton,4
+Kalamazoo,4
 Chula Vista,4
 Fullerton,4
-Ocala,4
+Ada,4
 Carmichael,4
-Deming,4
-Pasco,4
-Lake Jackson,4
-Lake Elsinore,4
-Nampa,4
-Indio,4
-Fort Wayne,4
-Brooksville,4
-Baytown,4
-Terre Haute,4
-Weatherford,4
-High Point,4
-Inglewood,4
-Lenoir,4
-Edinburg,4
-Greensboro,4
+Yakima,4
 Redlands,4
-Bismarck,3
-Portsmouth,3
-Ruidoso,3
-Parker,3
-Chesapeake,3
-Edgewood,3
-Jefferson County,3
-Cedar Rapids,3
-Sterling,3
-Hanover,3
-Dothan,3
-East Point,3
-Albany,3
-Lincoln County,3
-Larimer County,3
-Acworth,3
-Macon,3
-Loganville,3
-Hurst,3
-Stone Mountain,3
-Harvey,3
-Centerville,3
-Troy,3
-Sanford,3
-Culpeper,3
-Abbeville,3
-Winter Haven,3
-Scott County,3
-Horn Lake,3
-Hopewell,3
-Commerce,3
-Alamogordo,3
-Terrytown,3
-Carlsbad,3
-Kearns,3
-Eustis,3
-Winn Parish,3
-Evans,3
-Wellington,3
+Deming,4
+Cheyenne,4
+Puyallup,4
+Valdosta,4
+Indio,4
+Inglewood,4
+Cobb County,4
+Stillwater,3
 Allentown,3
-Kentwood,3
-Crowley,3
-East Baton Rouge,3
-Trinidad,3
+Pahrump,3
+Henry County,3
 Reading,3
-Fairview,3
-Rossville,3
-Dover,3
-Chamblee,3
-Waverly,3
-Elizabethton,3
+Walton,3
+College Station,3
+Carson City,3
+Centerville,3
+Knox County,3
+Wilkinsburg,3
+Greenwood,3
+Jasper,3
+Jefferson County,3
+Parma,3
 Willis,3
-Duluth,3
-Belleville,3
-Forest Park,3
-Dalton,3
-Newport,3
-Queens,3
-Abilene,3
-Quincy,3
-Lufkin,3
-Greeneville,3
+Bismarck,3
+Huntington,3
+Lawrenceburg,3
+Hurst,3
+Brockton,3
+Mesquite,3
+Carlsbad,3
+Saginaw,3
+Floyd County,3
+Edgewood,3
+Temple,3
+Spring,3
 Wichita Falls,3
+Jamestown,3
+Lufkin,3
+Abilene,3
+Jackson County,3
+Lewistown,3
 Rancho Cucamonga,3
 Joliet,3
-Eagar,3
-Sun City,3
-Spring,3
-Temple,3
-Landover,3
-Essex,3
-Apache Junction,3
-Saginaw,3
 Kerrville,3
-Yonkers,3
-Mesquite,3
-Lansing,3
-Sugar Creek,3
-Miami Township,3
-Lenoir City,3
-Kettering,3
-Pocatello,3
-Pine Bluff,3
-Fairmont,3
-Pahrump,3
-Daytona Beach,3
-Sylvania Township,3
-Carson City,3
-Belton,3
-Montpelier,3
-Parma,3
-Russellville,3
-Jasper,3
-Anadarko,3
-Lowell,3
-Fort Smith,3
-College Station,3
-Knox County,3
-Norman,3
-Rock Island,3
-Tarboro,3
-Miami-Dade County,3
-Morris,3
-Caldwell,3
-Johnson City,3
-Wilkinsburg,3
-Battle Creek,3
-San Fernando,3
-Vacaville,3
-Lawrenceburg,3
-Crescent City,3
-Overland Park,3
-Artesia,3
-Huntington,3
-Camden,3
-Henry County,3
-Oceanside,3
-Atlantic City,3
-North Port,3
-Wasco,3
-Emeryville,3
-Madera,3
-Selma,3
-Burbank,3
-Happy Valley,3
-DeLand,3
 Rushville,3
-Racine,3
-Rancho Mirage,3
-Colton,3
+Montpelier,3
+Sylvania Township,3
+Jersey City,3
+Abbeville,3
+Rock Island,3
+Norman,3
+Culpeper,3
+Scott County,3
+Apache Junction,3
+Hopewell,3
+Parker,3
+Sterling,3
+Lowell,3
+Sun City,3
+Eagar,3
+Portsmouth,3
+Belton,3
+Kearns,3
+Wellington,3
+Chesapeake,3
+Russellville,3
+Hanover,3
+Larimer County,3
+Lincoln County,3
+Dover,3
+Lansing,3
+Alamogordo,3
+Cedar Rapids,3
+Terrytown,3
+Commerce,3
+Pine Bluff,3
+Anadarko,3
+Sugar Creek,3
+Quincy,3
+Kettering,3
+Miami Township,3
+Atlantic City,3
+Camden,3
+Waverly,3
+Evans,3
+Fairview,3
+Dalton,3
+Forest Park,3
+Harvey,3
+Trinidad,3
+Fort Smith,3
+East Baton Rouge,3
+Crowley,3
+Winn Parish,3
+Belleville,3
+Mojave,3
+Ruidoso,3
+Sand City,3
+Byron,3
+Union City,3
+El Cajon,3
+Santa Clarita,3
+San Fernando,3
+Ceres,3
+Stone Mountain,3
+Rossville,3
+Acworth,3
+Cathedral City,3
+East Point,3
+Albany,3
+Macon,3
+Loganville,3
+San Ysidro,3
+Pittsfield,3
+Lodi,3
+Chamblee,3
+Rancho Cordova,3
+Temecula,3
+Daytona Beach,3
+Siskiyou County,3
+Selma,3
+Vacaville,3
+Sanford,3
+Miami-Dade County,3
+Pocatello,3
+Lemoore,3
+San Marcos,3
+Caldwell,3
+Essex,3
+Landover,3
+Kentwood,3
+Huntington Park,3
+Battle Creek,3
+Troy,3
+Compton,3
+La Quinta,3
+Clovis,3
+Moreno Valley,3
+Atwater,3
+Pleasanton,3
+Santa Maria,3
 Clackamas County,3
+Colton,3
+Dothan,3
+Horn Lake,3
+Green Bay,3
+Wauwatosa,3
+Appleton,3
+Racine,3
+Fox Crossing,3
+Marysville,3
+Greenville County,3
+Darlington County,3
+Horry County,3
+Wenatchee,3
+Spanaway,3
+Everett,3
+Kennewick,3
 Seaside,3
 Gresham,3
 Bend,3
+Newport,3
+Johnson City,3
+Lenoir City,3
+Elizabethton,3
+Santa Clara,3
+Burbank,3
+Emeryville,3
+Wasco,3
+Greeneville,3
 Polk County,3
-Delray Beach,3
+Tarboro,3
+Overland Park,3
+Hutchinson,3
+Happy Valley,3
+Queens,3
+Yonkers,3
 Klamath Falls,3
-Fox Crossing,3
+Madera,3
+North Port,3
+Melbourne,3
+Artesia,3
+Lebanon,3
+Crescent City,3
+Fort Myers,3
+Yucca Valley,3
 Yulee,3
 Largo,3
-Corona,3
-Woodville,3
-Santa Clara,3
-Melbourne,3
-Pittsfield,3
+Delray Beach,3
 Pompano Beach,3
-Ceres,3
-Santa Clarita,3
-El Cajon,3
-Union City,3
-Greenville County,3
-Huntington Park,3
-Rancho Cordova,3
-Jersey City,3
-Byron,3
-Temecula,3
-Siskiyou County,3
-Horry County,3
-Darlington County,3
-Compton,3
-Clovis,3
-Old Town,3
-Hallandale Beach,3
-Cathedral City,3
-Pleasanton,3
-Walton,3
+DeLand,3
 Port St. Lucie,3
-Lemoore,3
-San Marcos,3
-Santa Maria,3
-Fort Walton Beach,3
-Atwater,3
-West Palm Beach,3
-Moreno Valley,3
-Greenwood,3
-Lodi,3
-Sand City,3
-San Ysidro,3
+Woodville,3
 Auburndale,3
-Fort Myers,3
-La Quinta,3
-Green Bay,3
-Wauwatosa,3
-Jamestown,3
-Mojave,3
+Corona,3
+Fort Walton Beach,3
+Hallandale Beach,3
+West Palm Beach,3
+Rancho Mirage,3
 Hialeah,3
-Spanaway,3
-Yucca Valley,3
-Marysville,3
-Jackson County,3
-Wenatchee,3
-Floyd County,3
-Brockton,3
-Everett,3
-Appleton,3
-Kennewick,3
-Elk Grove,2
-Calumet City,2
-Taylorsville,2
-Henderson County,2
-Brunswick,2
-Randallstown,2
-Fountain Valley,2
-Geneseo,2
-Powder Springs,2
-Llano,2
-Kings County,2
-South El Monte,2
-South Lake Tahoe,2
-Cerritos,2
-Alpine,2
-South Ogden,2
-Maryville,2
-Port Arthur,2
-West Odessa,2
-West Covina,2
-Galesburg,2
-McKinney,2
-Portage,2
-Olivehurst,2
-Dunsmuir,2
-Columbia Township,2
-Middlesboro,2
-Riverton,2
-Nacogdoches,2
-Wood County,2
-Fulshear,2
-Sylmar,2
-LaFollette,2
-Montcalm,2
-Oak Ridge,2
-Monroe County,2
-Bel Air,2
-Katy,2
-Rising Sun,2
-Ouachita Parish,2
-New Iberia,2
-Rosebud,2
-Nokomis,2
-Walnut Creek,2
-Fife,2
-Sylvester,2
-Rapid Valley,2
-Hamilton County,2
-North East,2
-Robbins,2
-Kingsport,2
-Encinitas,2
-Waukegan,2
-Webster,2
-Beckley,2
-Bloomingdale,2
-Corning,2
+Old Town,3
+Winter Haven,3
+Eustis,3
+Oceanside,3
 Ellis County,2
-Miami Beach,2
-North Aurora,2
-Oak Cliff,2
-Panorama City,2
-Palestine,2
-Azle,2
-Gaines Township,2
-Stroudsburg,2
-Spanish Fork,2
-Leland,2
-Hickory,2
-Lumberton,2
-Hammett,2
-Rutland,2
-Waterford Township,2
-Kelso,2
-Clearfield,2
-Hamilton Township,2
-Asheville,2
-Elko,2
-Roy,2
-Jean,2
-Sandpoint,2
-Mt. Airy,2
-Ripon,2
-Immokalee,2
-Eaton County,2
-Rexburg,2
-Manchester Township,2
-Apex,2
-Union County,2
-Pottstown,2
-Shepherdsville,2
-Huntersville,2
-Yreka,2
-Pawtucket,2
-Winston-Salem,2
-Royal Oak,2
-Shelby Township,2
-Dearborn Heights,2
-West Hanover Township,2
-Hollywood Hills,2
-La Marque,2
-Maiden,2
-Eureka,2
-Benton Harbor,2
-Point Loma,2
-Burien,2
-Lake Stevens,2
-Rosenberg,2
-Calexico,2
-Del Rio,2
+Pembroke,2
 Euless,2
-Kokomo,2
-South Salt Lake,2
-Collinsville,2
-Orem,2
-Victoria,2
-Gray,2
-Merced,2
-Norwalk,2
-Naples,2
-Mifflin Township,2
-Grand Rapids,2
-Martin County,2
-Archdale,2
-Coeur d'Alene,2
-West Valley City,2
-Porterville,2
-Lebanon,2
-Gilroy,2
-Wake Forest,2
-Salemburg,2
-Hancock County,2
-Palm Beach Gardens,2
-Camarillo,2
-Jourdanton,2
-Wimberley,2
-Schertz,2
-Frankfort,2
-Carroll County,2
-Beverly,2
-Aberdeen,2
-Parkland,2
-Riverdale,2
-Snellville,2
-Spalding County,2
-Kingsland,2
-Kalihi,2
-Hall County,2
-LaGrange,2
-Bolton,2
-Mulberry,2
+Greece,2
+Owensboro,2
+North Pole,2
+Miami Beach,2
+Bessemer City,2
 Brookville,2
+Beverly,2
 Ashtabula,2
-Stockbridge,2
-Cave Junction,2
-Puna,2
-Coos Bay,2
-Springville,2
-Shirley,2
-Morrow,2
-Laurel,2
-Flatwoods,2
-Wyoming,2
-Gaithersburg,2
-Lake Lanier,2
-Spokane Valley,2
-Smith County,2
-Burkesville,2
-Milwaukie,2
-Leitchfield,2
-Douglasville,2
-Derry,2
+Del Rio,2
+Rosebud,2
+Caldwell County,2
 Madison Township,2
-Grand Island,2
+Westerville,2
+Apex,2
+Lima,2
+Bolton,2
+Middletown,2
+Schenectady,2
+Moraine,2
+Socorro,2
+Sylacauga,2
+Weslaco,2
+San Benito,2
+Bay City,2
+Tuscaloosa,2
+Clanton,2
+Aransas Pass,2
+Celina,2
+Hawkins,2
+Hoover,2
+Millbrook,2
+Smith County,2
+Vassalboro,2
+Jamesville,2
+Warwick,2
+Elmira,2
+Rapid Valley,2
+Winston-Salem,2
+Burkesville,2
+Palm Beach Gardens,2
+Pawtucket,2
+Salemburg,2
+Carmel,2
+Maryville,2
+Kingsport,2
+Slidell,2
+Hamilton County,2
+Naples,2
+Ouachita Parish,2
+Whitehall,2
+New Iberia,2
+Oak Ridge,2
+LaFollette,2
 Jonesborough,2
-Batesville,2
-Austell,2
-Franklinton,2
-Mandan,2
-Hazel Dell,2
-Perryville,2
-Ashville,2
+Church Hill,2
+Jourdanton,2
+South Haven,2
+Soddy-Daisy,2
 Fall River,2
+Wake Forest,2
+Archdale,2
+Rutland,2
+Huntersville,2
+Crawford County,2
+Rosenberg,2
+Mt. Airy,2
+Jeffersonville,2
+Franklinton,2
+Ashville,2
+Leland,2
 Trotwood,2
 East Cleveland,2
-Fort Valley,2
-Manila,2
-Dickinson,2
-Spencer,2
-Cabot,2
 Harrison Township,2
-Jeffersonville,2
-Grand Forks,2
-Thomasville,2
-Lima,2
-Newnan,2
-Westerville,2
-Buford,2
-Eatonville,2
-Laramie,2
-McMinnville,2
-Hiram,2
-Milford,2
-Moraine,2
-Aloha,2
-Wayne County,2
-Whitehall,2
-Barbourville,2
-Crawford County,2
-Stone County,2
-Adel,2
-Hawkins,2
-Bentonville,2
-Dolton,2
-Cartersville,2
-Monteagle,2
-Clermont,2
+Brunswick,2
+Hickory,2
+Lumberton,2
+Asheville,2
+Denham Springs,2
+Maiden,2
+Dickinson,2
+Sherman,2
+Mandan,2
+Middlesboro,2
+Henderson County,2
+Crandon,2
+Llano,2
+Nacogdoches,2
+Mount Hope,2
+Port Arthur,2
+Fulshear,2
+Oak Cliff,2
+Martin County,2
+Weston,2
+Wood County,2
+Pine River,2
+Sheboygan,2
+Webster,2
+Wausau,2
+Geneva,2
+Gray,2
+Shepherdsville,2
 Panama City,2
-Alamo,2
-Slidell,2
+Laramie,2
+Irmo,2
+Kalihi,2
+Braintree,2
+Puna,2
+Montcalm,2
+Milford,2
+Beckley,2
+Derry,2
+Claremont,2
+Union County,2
+Frankfort,2
+McKinney,2
+Orange County,2
+Fountain Inn,2
+West Odessa,2
+Azle,2
+Hardeeville,2
+Taylors,2
+Clermont,2
+Yazoo City,2
+Katy,2
+Moss Point,2
+Semmes,2
 Snyder,2
 Cinco Ranch,2
-Carmel,2
+Prichard,2
+Flatwoods,2
 Monahans,2
-Barrow County,2
-Sevierville,2
-Olathe,2
-Hays,2
-Soddy-Daisy,2
-Woodlawn,2
-Grand Prairie,2
-Bremen,2
-Lawrenceville,2
-Church Hill,2
-Farmers Branch,2
-Lawndale,2
-Round Rock,2
-South Haven,2
-Deer Park,2
-Harmony,2
-Guadalupe County,2
-Stratford,2
-Lawrence,2
-Salina,2
-Villa Park,2
-Elkridge,2
 Cedar Hill,2
-Taos,2
-Hohenwald,2
-Aransas Pass,2
-Parkville,2
-Glen Burnie,2
-Texarkana,2
-Claremont,2
-Rockville,2
-Holly Springs,2
-North Little Rock,2
-Bay City,2
-Talking Rock,2
-Owensboro,2
-Atkins,2
-Celina,2
-Forrest City,2
-Catoosa County,2
-Temple Hills,2
-San Benito,2
-Orange County,2
-Whitehaven,2
+New Boston,2
+Monroe County,2
+Ohatchee,2
 Denton County,2
 Lantana,2
-Hendersonville,2
-Braintree,2
-Denham Springs,2
-Alton,2
-Zion,2
-Weslaco,2
-Metropolis,2
-Sherman,2
-Thomaston,2
-Joilet,2
-Socorro,2
-Oxon Hill,2
-New Boston,2
-Wise County,2
-Plymouth Township,2
-Sebring,2
-Clanton,2
-Redondo Beach,2
-Hoover,2
-Henrico County,2
-Millbrook,2
-Fairfax,2
-Provo,2
-Poplar Bluff,2
-Tuscaloosa,2
-Joshua Tree,2
-Lehigh Acres,2
-Floral City,2
-Catoosa,2
-Okmulgee,2
-Reseda,2
-Sullivan,2
-Ponca City,2
-Bartlesville,2
-Safety Harbor,2
-McAlester,2
+Wayne County,2
 Gadsden,2
-Sand Springs,2
+Barbourville,2
 Tuscumbia,2
-Callahan,2
-Edmond,2
-Bell Gardens,2
-O'Fallon,2
-Norwood,2
-Broken Bow,2
-Grandview,2
-Eufaula,2
-Miramar,2
-Cache,2
-Greene County,2
-Wagoner,2
-Sylacauga,2
-Vassalboro,2
-Hackensack,2
-Sarasota,2
-Richfield,2
-Chaska,2
-Backus,2
-Lakeville,2
-Maricopa,2
-Bassett,2
-Warwick,2
-Lemon Grove,2
-Los Banos,2
-Dania Beach,2
-Lealman,2
-Elmira,2
-Hermantown,2
-Coon Rapids,2
-Montebello,2
-Campo,2
-Miltona,2
-Pine County,2
-Mountain Iron,2
-Robbinsdale,2
-Braham,2
-El Sereno,2
-Redwood City,2
-Tulare,2
-Jamesville,2
-Jennings,2
-St Louis,2
-Lake Wales,2
-Bowlus,2
-Vinita,2
-Chisholm,2
-Forest Lake,2
-Mounds View,2
-Olivia,2
-Covina,2
-Anoka,2
-Leesburg,2
-Linda,2
-Winslow,2
-Wausau,2
-Port Orange,2
-Daly City,2
-Edison,2
-Geneva,2
-Oak Park,2
-Iuka,2
-Lauderdale County,2
-El Centro,2
-Monterey Park,2
-Timberville,2
-Davis,2
-Sheboygan,2
-Pine River,2
-Palatka,2
-Pulaski,2
-Fountain,2
-Harrisonburg,2
-Tupelo,2
-Plant City,2
-Grant-Valkaria,2
-West Sacramento,2
-Henrico,2
-Yazoo City,2
-Woodbridge,2
-Oildale,2
-Abingdon,2
-Moss Point,2
-Lake Forest,2
-Waynesboro,2
-Tarpon Springs,2
-Milpitas,2
-Rosamond,2
-Paso Robles,2
-Guadalupe,2
+Leitchfield,2
+Albertville,2
+Grand Prairie,2
+Harmony,2
+Farmers Branch,2
+Palestine,2
+Grand Forks,2
 Water Valley,2
 Southaven,2
-La Habra,2
-Brighton,2
-Bailey,2
-Weld County,2
-Monument,2
-Avon,2
-Semmes,2
-Mount Hope,2
-St. Charles County,2
-Boynton Beach,2
-Indian River County,2
-Douglas County,2
-Colorado City,2
-Carthage,2
-Crandon,2
-Prichard,2
-Ohatchee,2
-Chesterfield,2
-Fulton,2
-Guthrie,2
-Albertville,2
-Ashland,2
-Tamarac,2
-Fort Lupton,2
-Glendora,2
-Stanton,2
-Weston,2
-Adelanto,2
-Kendale Lakes,2
-Menifee,2
-Ferguson,2
-San Gabriel,2
-Alamosa,2
+Wimberley,2
+La Marque,2
+Schertz,2
+Round Rock,2
 Walker County,2
-Westminister,2
-Garden Grove,2
-Sunrise,2
-Vero Beach,2
-Port Charlotte,2
-St. Louis Park,2
-Shelton,2
-Tonopah,2
-Bloomington,2
-El Mirage,2
-Grass Valley,2
-Caldwell County,2
-Palm Springs,2
-Pico Rivera,2
-Boone,2
-Bessemer City,2
-Peterson,2
-Pinellas Park,2
-Margate,2
-Fort Madison,2
-Fair Oaks,2
-Vadnais Heights,2
+Tupelo,2
+Iuka,2
+Guadalupe County,2
+Lauderdale County,2
+Stratford,2
+Bremen,2
+Victoria,2
+Tamarac,2
+Helena,2
+Monteagle,2
+Rockville,2
+Bernalillo,2
 Chaves County,2
-York County,2
-Vista,2
+Palatka,2
+Wyoming,2
+Grand Island,2
+Gaithersburg,2
+Eagan,2
+Laurel,2
+Glen Burnie,2
+Benton Harbor,2
+Parkville,2
+Morris,2
+Mankato,2
+Temple Hills,2
+Fairmont,2
+Brooklyn Center,2
+Oxon Hill,2
+Duluth,2
+Columbia Township,2
+Grand Rapids,2
+Collinsville,2
+Galesburg,2
+Henrico County,2
+Timberville,2
+Sylvester,2
+Plant City,2
+Powder Springs,2
+Jean,2
+Vero Beach,2
+Elko,2
+Dearborn Heights,2
+Waterford Township,2
+Shelby Township,2
+Sunrise,2
+Waynesboro,2
+Royal Oak,2
+Kendale Lakes,2
+Wise County,2
+Eaton County,2
+Taos,2
+Wadena County,2
+Woodlawn,2
+St Louis,2
+Dania Beach,2
+Rexburg,2
+Woodbridge,2
+Margate,2
+Ferguson,2
 Coral Gables,2
 Pine Hills,2
-Bettendorf,2
-Dinuba,2
-Nogales,2
-Crystal,2
-Hardeeville,2
-Mora,2
-Germantown,2
-Carson,2
-North Pole,2
-Columbia Heights,2
-Millville,2
-Asbury Park,2
-Beaver Dam,2
-Payson,2
-Bernalillo,2
-Upper Darby,2
-Cohasset,2
-Plymouth,2
-Aitkin,2
-Fridley,2
-New Hope,2
-Falcon Heights,2
-Hardwick,2
-Wildomar,2
-North Branch,2
+Abingdon,2
+Pulaski,2
+Sarasota,2
+Elkridge,2
+Harrisonburg,2
+Lehigh Acres,2
+Sebring,2
+Miramar,2
+Port Charlotte,2
+Leesburg,2
+Safety Harbor,2
+Indian River County,2
+Sandpoint,2
+St. Charles County,2
+Carthage,2
+Hammett,2
+Jennings,2
+Bel Air,2
+Rising Sun,2
+North East,2
+Sullivan,2
+Henrico,2
+Randallstown,2
+Poplar Bluff,2
+Port Orange,2
+Grant-Valkaria,2
+Coeur d'Alene,2
+Greene County,2
+Grandview,2
+Tarpon Springs,2
+O'Fallon,2
+Fulton,2
+Chesterfield,2
+Hancock County,2
+Calumet City,2
+Alamo,2
+Orem,2
+Spanish Fork,2
+Kingsland,2
+Hall County,2
 Titusville,2
-Pembroke,2
-Tustin,2
-Albert Lea,2
-Irmo,2
-Shakopee,2
-Schenectady,2
-University City,2
-Quartzsite,2
-Surprise,2
-Fountain Inn,2
-Bellflower,2
-Paulden,2
-Goodyear,2
-West Des Moines,2
-Virginia,2
-Golden Valley,2
-Ventnor,2
-Bemidji,2
-Lewistown,2
-Altoona,2
+LaGrange,2
+Roy,2
+West Valley City,2
+South Salt Lake,2
+Carroll County,2
+Pinellas Park,2
+Riverton,2
+South Ogden,2
+Taylorsville,2
+Buford,2
+Springville,2
+Cabot,2
+Manila,2
+Perryville,2
+Spalding County,2
+Snellville,2
+Geneseo,2
+Shelby,2
+Immokalee,2
+Livingston,2
+Portage,2
+Sevierville,2
 Milton,2
-Castaic,2
-St. James,2
-Hastings,2
-Chanhassen,2
-Lake Havasu City,2
-Sedona,2
-Greece,2
-Desert Hot Springs,2
-Lake Elmo,2
+Boynton Beach,2
+Hohenwald,2
+Hendersonville,2
+Flathead County,2
+Provo,2
+Whitehaven,2
+Thomaston,2
+Holly Springs,2
+Catoosa County,2
+Stillwater County,2
+Adel,2
+Morrow,2
+Lake Lanier,2
+Hiram,2
+Thomasville,2
+Kokomo,2
+Villa Park,2
+Zion,2
+Alton,2
+Talking Rock,2
+Barrow County,2
+Cartersville,2
+Ventnor,2
+Floral City,2
+Dolton,2
+Lawndale,2
+Austell,2
+Lawrenceville,2
+Nokomis,2
+Robbins,2
+Waukegan,2
+Hackensack,2
+Bloomingdale,2
+Callahan,2
+North Aurora,2
+Metropolis,2
+Douglasville,2
+Joilet,2
+Texarkana,2
+Fort Valley,2
+Lealman,2
+Lake Wales,2
+Batesville,2
+Mulberry,2
+Asbury Park,2
+Hardwick,2
+Newnan,2
+Shirley,2
+Stone County,2
+Stockbridge,2
+Bentonville,2
+Forrest City,2
+Atkins,2
+Riverdale,2
+Millville,2
+North Little Rock,2
+Spencer,2
+Shelton,2
+Mifflin Township,2
+University City,2
+Alpine,2
 Yuba City,2
-Taylors,2
+Desert Hot Springs,2
+Deer Park,2
+Bettendorf,2
+South Lake Tahoe,2
+West Covina,2
+Douglas County,2
+Weld County,2
+Oildale,2
+Olivehurst,2
+Dunsmuir,2
+Maricopa,2
+West Des Moines,2
 Fort Dodge,2
-Middletown,2
-Mountain Home,1
-West Springfield,1
-Beatrice,1
-Lady Lake,1
-Newbury,1
-Melba,1
-Taunton,1
-Hog Valley,1
-Opa-Locka,1
-Scottsbluff,1
-Coolin,1
-Escambia County,1
-Bayard,1
-Bushnell,1
-Alford,1
-Revere,1
-Olustee,1
-North Platte,1
-Beverly Hills,1
-Lawtey,1
-Clay County,1
-Osteen,1
-Westborough,1
-Gooding,1
-San Carlos Park,1
-Seville,1
-Apopka,1
-Starke,1
-Port Salerno,1
-Alvo,1
-Brookline,1
-North Lauderdale,1
-Homosassa,1
-Juniata,1
-New Smyrna Beach,1
-Palmetto,1
-Jacksonsville,1
-Frederick,1
-Roslindale,1
-Doral,1
-Ghent,1
-Casselberry,1
-Winter Park,1
-Midway,1
-Belle Glade,1
-Romulus,1
-Hessel,1
-Amelia Island,1
-Algoma Township,1
-Manistee,1
-Hernando,1
-Cocoa Beach,1
-Broward County,1
-Brighton Township,1
-Dunnellon,1
-Marine City,1
-Kissimmee,1
-Gallatin County,1
-Mason County,1
-Rockledge,1
-Edgewater,1
-Morgan County,1
-Inkster,1
-Lauderhill,1
-Carrollwood,1
-Holland Township,1
-Hendry County,1
-Lake Placid,1
-Villa Hills,1
-Lake Mary,1
-Ishpeming Township,1
-Kuna,1
-Estero,1
-Tewksbury,1
-Coconut Creek,1
-Dade City,1
-Miami Shores,1
-Eaton Rapids Township,1
-Roxand Township,1
-Weymouth,1
-Cave City,1
-Powell County,1
-West Melbourne,1
-Indiantown,1
-Homedale,1
-Council,1
-Newberry,1
-Noma,1
-North Escambia,1
-Dundee,1
-Florida City,1
-Lauderdale Lakes,1
-Grant County,1
-Middleton,1
-Citra,1
-Bloomfield Township,1
-Cato Township,1
-Manatee,1
+Carson,2
+Avon,2
+Altoona,2
+Dinuba,2
+Panorama City,2
+Guadalupe,2
+Bellflower,2
+West Sacramento,2
+Winslow,2
+Cerritos,2
+Encinitas,2
+Fife,2
+Corning,2
+Paso Robles,2
+Rosamond,2
+Milpitas,2
+Sylmar,2
+Lake Forest,2
+York County,2
+Sand Springs,2
+Kings County,2
+Fountain Valley,2
+Montebello,2
+Elk Grove,2
+Upper Darby,2
+Guthrie,2
+Campo,2
+Tustin,2
+Germantown,2
+South El Monte,2
+Vinita,2
+Grass Valley,2
+Monument,2
+Walnut Creek,2
+Payson,2
+Coos Bay,2
+Fair Oaks,2
+Hazel Dell,2
+Tonopah,2
+Paulden,2
+Cave Junction,2
+Alamosa,2
+Hollywood Hills,2
+Ripon,2
+Nogales,2
+El Mirage,2
+Quartzsite,2
+Vista,2
+Castaic,2
+Aloha,2
+Colorado City,2
+Sedona,2
+Bailey,2
+Yreka,2
+McMinnville,2
+Brighton,2
+Goodyear,2
+Westminister,2
+Lake Havasu City,2
+Porterville,2
+Pico Rivera,2
+Spokane Valley,2
+Aberdeen,2
+Fort Madison,2
+Parkland,2
+Surprise,2
+Eatonville,2
+Boone,2
+Fort Lupton,2
+Calexico,2
+Palm Springs,2
+Milwaukie,2
+Point Loma,2
+Eureka,2
+Merced,2
+Wildomar,2
+Norwalk,2
+Beaver Dam,2
+Golden Valley,2
+Gilroy,2
+Camarillo,2
+Los Banos,2
+Fountain,2
+Wagoner,2
+Gaines Township,2
+Reseda,2
+Menifee,2
+San Gabriel,2
+Fairfax,2
+Cache,2
+West Hanover Township,2
+Redwood City,2
+Joshua Tree,2
+Salina,2
+Garden Grove,2
+Oak Park,2
+Ashland,2
+Broken Bow,2
+Pottstown,2
+Ponca City,2
+Bassett,2
+Hays,2
+Hamilton Township,2
+Olathe,2
+Clearfield,2
+Stroudsburg,2
+Lake Stevens,2
+Tulare,2
+Burien,2
+La Habra,2
+Glendora,2
+Davis,2
+Eufaula,2
+El Centro,2
+Stanton,2
+Kelso,2
+Adelanto,2
+Norwood,2
+McAlester,2
+Covina,2
+Redondo Beach,2
+El Sereno,2
+Okmulgee,2
+Manchester Township,2
+Lawrence,2
+Edison,2
+Linda,2
+Bartlesville,2
+Catoosa,2
+Daly City,2
+Plymouth Township,2
+Bell Gardens,2
+Lemon Grove,2
+Monterey Park,2
+Edmond,2
+Valinda,1
+Bennington Township,1
+Brooklet,1
+Tyrone,1
+Solvang,1
+Monterey,1
+Iron River,1
+Bluff City,1
+Woodstock,1
+Aguanga,1
+Ludowici,1
+Bradley County,1
+Gobles,1
+Pinion Hills,1
+Elberton,1
+La Vergne,1
+Clarkesville,1
+North Topeka,1
+Beaver Township,1
+Chesaning,1
+Edmore,1
+Reading Township,1
+Lenexa,1
+Peachtree City,1
+Minneola,1
+Lizella,1
+Clarkville,1
+Heath Township,1
+Pigeon Forge,1
+Rutledge,1
+Collierville,1
+Cedartown,1
+Lumpkin,1
+Moultrie,1
+Niles Charter Township,1
+Kingston Springs,1
+Ooltewah,1
+West Goshen,1
+Orangeville Township,1
+Brown City,1
+Palo Alto,1
+Etowah,1
+Rockwood,1
+Jesup,1
+White,1
+Taylor,1
+Santa Nella,1
+Maury County,1
+Monterey Township,1
+Rosemead,1
+North Hills,1
+Yorba Linda,1
+Port Wentworth,1
+Albion,1
+Boyle Heights,1
+Moscow,1
+Ellis Township,1
+Clarkrange,1
+Smartsville,1
+Soddy Daisy,1
+Cochran,1
+Clearlake Park,1
+Highgrove,1
+Manhattan,1
+Bethel Springs,1
+Pacific Beach,1
+Elizabethon,1
+Marina,1
+Burton,1
+Paulding County,1
+Whitfield County,1
+Mufreesboro,1
+Sale Creek,1
+Eden,1
+Lynwood,1
+Bulls Gap,1
+Lewisburg,1
+Dunwoody,1
+Downey,1
+Cowley County,1
+Warner Robins,1
+Venice,1
+Saline County,1
+Lowndes County,1
+Fairburn,1
+Gordon County,1
+Clayton County,1
+Perry,1
+Aragon,1
+Lithonia,1
+Rex,1
+Evans County,1
+Bonaire,1
+College Park,1
+Allenhurst,1
+Rocky Face,1
+Cairo,1
+Baxter Springs,1
+Ray City,1
+Greenback,1
+Camden County,1
+Lithia Springs,1
+Reidsville,1
+Fayette County,1
+Toccoa,1
+McLemoresville,1
+300 block of State Line Road,1
+Apple Valley,1
+Calimesa,1
+Reagan,1
+Oneida,1
+Decatur County,1
+East Ridge,1
+Counce,1
+Estill Springs,1
+South Los Angeles,1
+Oxnard,1
+Gallatin,1
+Somerville,1
+Hawthorne,1
+Tehachapi,1
+Bon Aqua,1
+Montclair,1
+Humboldt,1
+Gibson County,1
+Cosby,1
+Shafter,1
+Dickson,1
+West Knox,1
+Hixson,1
+Windsor,1
+Lilburn,1
+Bartlett,1
+Chanute,1
+Bibb County,1
+Walton County,1
+Claiborne County,1
+Boulder Creek,1
+Blountville,1
+Cheatham County,1
+Needles,1
+Carnesville,1
+Johns Creek,1
+Molena,1
+Meadow Vista,1
+Locust Grove,1
+Clayton,1
+Studio City,1
+San Diego County,1
+Chatham County,1
+Mt. Pleasant,1
+Rincon,1
+Monticello,1
+Inyokern,1
+Thomas County,1
+Griffin,1
+Weitchpec,1
+Habersham,1
+Hawaiian Gardens,1
+Walter Hill,1
+Plainville,1
+Calhoun,1
+Oshtemo Township,1
+Chickamauga,1
+Sylvania,1
+Claxton,1
+Hogansville,1
+Rancho Santa Margarita,1
+Cuthbert,1
+Bainbridge,1
+Cocke County,1
+South Knoxville,1
+Tullahoma,1
+Dahlonega,1
+Conyers,1
+Pearson,1
+Watsonsville,1
+Grovetown,1
+Glennville,1
+Porterdale,1
+Glenwood,1
+Sandy Springs,1
+Salacoa,1
+Dyersburg,1
+McIntosh County,1
+Norcross,1
 Benton Township,1
-Hopkinsville,1
-Coral Springs,1
-Southfield,1
-Crestview,1
-Winthrop,1
-New Port Richey,1
-Epping,1
-Star,1
+Madison Heights,1
+Chowchilla,1
+Marion County,1
+North Miami,1
+Grover Beach,1
 West Kendall,1
-Walpole,1
 North Fort Myers,1
 Port Richey,1
 Temple Terrace,1
-Oakland Park,1
 Viera,1
-Meredith,1
-Shelley,1
-Okaloosa Island,1
-Belmont,1
-Orofino,1
-Panama City Beach,1
-Hyattsville,1
+North Miami Beach,1
+Avenal,1
 Ormond Beach,1
-Gonic,1
 Miami-Dade,1
-Canaan,1
 Poinciana,1
-Murphy,1
-Gifford,1
+The Villages,1
+Holly Hill,1
+Grand Terrace,1
+Norco,1
+Mandarin,1
+Bascom,1
+Santa Rosa,1
+Boyton Beach,1
+Coleman,1
+Ruskin,1
+Indialantic,1
+Livermore,1
+Davie,1
+Bruce,1
+Mexico Beach,1
+Avon Park,1
+Hilliard,1
+Port St. Joe,1
+Miami Shores,1
+Lake Placid,1
+Okaloosa Island,1
+Hendry County,1
+Carrollwood,1
+Kissimmee,1
+Dunnellon,1
+Broward County,1
+Barona Indian Reservation,1
+Winter Park,1
+Doral,1
+Estero,1
+Newberry,1
+West Melbourne,1
+Coconut Creek,1
+Palm City,1
+Del Mar,1
+Escambia County,1
+Alford,1
+North Lauderdale,1
+Port Salerno,1
+Clay County,1
+Homosassa,1
+New Smyrna Beach,1
+Crestview,1
+New Port Richey,1
+Lake Worth,1
+Perdido Key,1
+Frostproof,1
+Orcutt,1
+North Escambia,1
+Eckford Township,1
+Riverbank,1
+Valley View,1
+Oroville,1
+Crystal Springs,1
+Lakes Wales,1
+Baldwin Hills,1
+Foresthill,1
+Jupiter,1
+Palermo,1
+Cantonment,1
+Orosi,1
 Cape Canaveral,1
-Thurmont,1
-Havre de Grace,1
-Davidsonville,1
+Gifford,1
+Panama City Beach,1
+Mecca,1
+Laguna Woods,1
+Loxahatchee,1
+Calaveras County,1
+Middleburg,1
+Palm Harbor,1
+Fruitland Park,1
+Orange City,1
+East Los Angeles,1
+Holiday,1
+Thousand Oaks,1
+Weeki Wachi,1
+Charleston View,1
+Lake Asbury,1
+Paradise,1
+Willits,1
+Palmetto,1
+Bushnell,1
+Casselberry,1
+Arcata,1
+Lawtey,1
+Beverly Hills,1
+Olustee,1
+Seville,1
+Apopka,1
+Starke,1
+Lady Lake,1
+Dade City,1
+Dundee,1
+Florida City,1
+Citra,1
+Lake Mary,1
+Midway,1
+Nice,1
+Amelia Island,1
+Duarte,1
+Cloverdale,1
+Hernando,1
+Cocoa Beach,1
+Rockledge,1
+Lauderhill,1
+San Carlos Park,1
+Edgewater,1
+Coral Springs,1
+Lauderdale Lakes,1
+North Hollywood,1
+Indiantown,1
+San Mateo,1
+Middleton,1
+Council,1
+Scottsbluff,1
+Delhi,1
+Westmoreland,1
+Saratoga,1
+Cato Township,1
+Bloomfield Township,1
+Roxand Township,1
+Eaton Rapids Township,1
+Irvine,1
+Beatrice,1
+Alvo,1
+North Platte,1
+Juniata,1
+Bayard,1
+Blair,1
+Ishpeming Township,1
+Arnold,1
+South Sioux City,1
+Santa Cruz,1
+Big Springs,1
+Sidney,1
+Gaitherburg,1
+Towson,1
+Somerset County,1
+Crofton,1
+Leonardtown,1
+Laytonsville,1
+Chatsworth,1
+Lanham,1
+Southfield,1
+East Hollywood,1
+Homedale,1
+Pavilion Township,1
+Delta Township,1
+Redford Township,1
+Walloon Lake,1
+St. Joseph County,1
+Bagley Township,1
+Pennfield Township,1
+Sebewaing,1
+Turlock,1
+Lincoln Township,1
+St. Clair Shores,1
+Maywood,1
+Bell,1
+West Olive,1
+City Terrace,1
+Romulus,1
+Genesee Township,1
+Blackman Township,1
+Santee,1
+Holland Township,1
+Inkster,1
+Antelope,1
+Marine City,1
+Brighton Township,1
+Poway,1
+Manistee,1
+Algoma Township,1
+McKinneyville,1
+Hessel,1
+Emmitsburg,1
+La Plata,1
+Potomac,1
+Preston,1
+Santa Monica,1
+Santa Barbara,1
+Newman,1
+Star,1
+Shelley,1
+Orofino,1
+Murphy,1
 McCammon,1
 Coeur d’Alene,1
-Loxahatchee,1
-Fort Washington,1
-Lake Asbury,1
-Middleburg,1
-Middle River,1
-Holiday,1
-Greenbelt,1
-Orange City,1
-Fruitland Park,1
-Pikesville,1
-District Heights,1
-Ft. Lauderdale,1
-Capitol Heights,1
-Plantation,1
-Chestertown,1
-Owings Mills,1
-Palm Harbor,1
-Fort Meade,1
-Overlea,1
-Montgomery Village,1
-Weeki Wachi,1
-Dundalk,1
-Navarre,1
-Mt Airy,1
-Avon Park,1
-Little Orleans,1
-Carollwood,1
-Marion County,1
-North Miami,1
-Mascotte,1
-Putnam Hall,1
-Rosedale,1
-Linthicum,1
-Port St. Joe,1
-Sneads,1
-Lakes Wales,1
-Holly Hill,1
-Boyton Beach,1
-Reisterstown,1
-Leicester,1
-Coleman,1
-Big Springs,1
-Wendell,1
-Rigby,1
-Crystal Springs,1
-Niceville,1
-Ruskin,1
-Deland,1
-Hilliard,1
-Micanopy,1
-Palm City,1
-Indialantic,1
-Frostproof,1
-Davie,1
-South Sioux City,1
-Bruce,1
-Worcester,1
-Mexico Beach,1
-Blackfoot,1
-Arnold,1
-Perdido Key,1
-Lake Worth,1
-Blair,1
-Sidney,1
-Preston,1
-Saugus,1
-Gaitherburg,1
-Lexington Park,1
 Hailey,1
-The Villages,1
 Bingham County,1
-Potomac,1
-Thonotosassa,1
-Little Havana,1
-La Plata,1
-Emmitsburg,1
-Peterborough,1
-Merrimack,1
-Barberville,1
 Ammon,1
-Bath,1
 Weippe,1
-Lanham,1
-Cantonment,1
-Jupiter,1
-Laytonsville,1
-Mandarin,1
-Leonardtown,1
-Crofton,1
-Somerset County,1
-Bascom,1
-Seekonk,1
-Dorchester,1
-Towson,1
-North Miami Beach,1
-Bolivar,1
-Blackman Township,1
-Sumrall,1
-Pearlington,1
-Looxahoma,1
-Rankin County,1
-Raymond,1
-Kenosha,1
-Fond du Lac,1
-Greenfield,1
-Ashwaubenon,1
-Paddock Lake,1
-Neenah,1
-East Troy,1
-Lake Hallie,1
-Antigo,1
-Pembine,1
-New London,1
-Walnut,1
-Pascagoula,1
-Lucedale,1
-DeSoto County,1
-St. Martin,1
-Walls,1
-Petal,1
-Tate County,1
-Neshoba County,1
-Hinds County,1
-Grenada,1
-Clarksdale,1
-Pelehatchie,1
-Pearl River County,1
-Braxton,1
-Pearl,1
-Pontotoc County,1
-Wesson,1
-Fayette,1
-Millston,1
-Rib Mountain,1
-West Allis,1
-Oshkosh,1
-Suring,1
-Watertown,1
-St. Croix Falls,1
-South Milwaukee,1
-Goodman,1
-Marinette County,1
-Fort Atkinson,1
-Kewaskum,1
-New Berlin,1
-Oak Creek,1
+Wendell,1
+Lexington Park,1
+Rigby,1
+Douglas City,1
+Rocklin,1
+Blackfoot,1
+Cabazon,1
+Ladera Heights,1
+Gooding,1
+Coolin,1
+Melba,1
+Mountain Home,1
+Kuna,1
+Santa Paula,1
+Newport Beach,1
+Olympic Valley,1
+Fort Meade,1
+Alhambra,1
+Owings Mills,1
+Linthicum,1
+Hyattsville,1
+Rosedale,1
+Watsonville,1
+Davidsonville,1
+Havre de Grace,1
+Thurmont,1
+La Mirada,1
+Hacienda Heights,1
+Brawley,1
+Coalinga,1
+Fort Washington,1
+Little Orleans,1
+Mt Airy,1
+Dundalk,1
+Montgomery Village,1
+Overlea,1
+Chestertown,1
+Capitol Heights,1
+Pikesville,1
+Greenbelt,1
+Twentynine Palms,1
+Middle River,1
+Frederick,1
+Reisterstown,1
+Atascadero,1
+District Heights,1
+Overton County,1
+Statesville,1
+McDonald,1
 Goetz,1
-Oconto,1
-Pelzer,1
-Johnsonville,1
+Latta,1
+Cayce,1
+Kent Station,1
+Goose Creek,1
+Summerville,1
+Seneca,1
+Cheney,1
+Stanwood,1
+Walla Walla,1
 Boiling Springs,1
+Alderwood Manor,1
+Johnsonville,1
+Pelzer,1
+Oconto,1
+Oak Creek,1
+Benton City,1
+New Berlin,1
+Kewaskum,1
+Fort Atkinson,1
+Marinette County,1
+Goodman,1
+South Milwaukee,1
+St. Croix Falls,1
+Watertown,1
+Suring,1
 Beloit,1
 West Kewaunee,1
 Leon,1
-Manitowoc,1
-La Crosse,1
-Pardeeville,1
-Black River Falls,1
-Odanah,1
-Peshtigo,1
-Clark County,1
-Elkhorn,1
 Two Rivers,1
-Fairchild,1
-Menasha,1
-Arpin,1
-Caledonia,1
-Kaukauna,1
 Loyal,1
-Gautier,1
-Smithville,1
-Genesee Township,1
-Topsham,1
-Dadeville,1
-Bay Minette,1
-Lawrence County,1
-Opp,1
-Arab,1
-Muscle Shoals,1
-Monroeville,1
-Opelika,1
-Rainbow City,1
-Meridianville,1
-Macon County,1
-Eastaboga,1
-Westover,1
-Baldwin County,1
-Clay,1
-Blue Hill,1
-Falmouth,1
-Brookhaven,1
-Mars Hill,1
-Dolgeville,1
-Hyde Park,1
-Saranac Lake,1
-Bangor,1
-Waldoboro,1
-Belgrade,1
-Arundel,1
-Orrington,1
-Oakfield,1
-Wales,1
-Gorham,1
-Limerick,1
-Minot,1
-Jefferson,1
-Waterville,1
-Crenshaw County,1
-Leeds,1
-Fairhope,1
-Anniston,1
-Columbiana,1
-St. Clair County,1
-Dora,1
-Odenville,1
-Fruithurst,1
-Blount County,1
-Jemison,1
-Lee County,1
-Malbis,1
-Wetumpka,1
-Cullman County,1
-Perdido,1
-Priceville,1
-Barton,1
-Ruth,1
-Luverne,1
-Atmore,1
-Chunchula,1
-Eclectic,1
-Pell City,1
-Barnwell,1
-Citronelle,1
-Haynesville,1
-Demopolis,1
-Talladega,1
-Ranburne,1
-Daphne,1
-Hanceville,1
-Gordo,1
-Elkmont,1
-Coden,1
-Vestavia Hills,1
-Ariton,1
-Seneca,1
-Summerville,1
-Goose Creek,1
-Lewis County,1
-Maui,1
-Keaau,1
-Kahuku,1
-Aiea,1
-Papaaloa,1
-North Shore,1
-Nanakuli,1
-Pahoa,1
-Wailuku,1
-Kaneohe,1
-Kakaako,1
+Chesterfield County,1
+Landrum,1
+Warrenville,1
+Blacksburg,1
+Dalzell,1
+Andrews,1
+Easley,1
+Hartsville,1
+Orangeburg,1
+Inman,1
+Pelion,1
+Frederickson,1
+Walterboro,1
+Huger,1
+Oak Harbor,1
+Camp Croft,1
+Hillyard,1
+Johns Island,1
+Enoree,1
+Edmund,1
+Swansea,1
+Bremerton,1
+Ebey Island,1
+Simpsonville,1
+Surfside Beach,1
+Lake View,1
+Pendleton,1
+Elk Plain,1
+Sumter,1
+Iva,1
+Moncks Corner,1
+Campobello,1
+Little Mountain,1
+Lake City,1
+Kaukauna,1
+Caledonia,1
+Arpin,1
+Pontotoc County,1
+Shoreline,1
+Bothell,1
+Raymond,1
+Rankin County,1
+Looxahoma,1
+Port Orchard,1
+Pearlington,1
+Walnut,1
+Sumrall,1
+Pascagoula,1
+DeSoto County,1
+Fayette,1
+Redmond,1
+Wesson,1
+Pearl,1
+Menasha,1
+Braxton,1
+Pearl River County,1
+Pelehatchie,1
+Clarksdale,1
+Grenada,1
+Airway Heights,1
+Hinds County,1
+Neshoba County,1
+Tate County,1
+Petal,1
+Lewiston,1
+North Bend,1
+Walls,1
+Algona,1
+Kenosha,1
+Fond du Lac,1
+Ritzville,1
+Greenfield,1
+Fairchild,1
+Elkhorn,1
+Manitowoc,1
+Glenoma,1
+Clark County,1
+Kittitas,1
+Peshtigo,1
+Odanah,1
+Black River Falls,1
+Montesano,1
+Toppenish,1
+Pardeeville,1
+La Crosse,1
+Oshkosh,1
+Centralia,1
+Poulsbo,1
+West Allis,1
+Rib Mountain,1
+Millston,1
+New London,1
+Pembine,1
+Black Diamond,1
+Antigo,1
+Lake Hallie,1
+East Troy,1
+Moses Lake,1
+Neenah,1
+Paddock Lake,1
+Ashwaubenon,1
+James Island,1
+Clemson,1
+Rogersville,1
 Rawlins,1
-Lander,1
-Basin,1
-Wood Lake,1
-Bradley,1
-Birch River,1
-Cayce,1
-Doddridge County,1
-Clarksburg,1
-Pentress,1
-Welch,1
-Pocahontas County,1
-Drennen,1
-Ona,1
-Cross Lanes,1
-Nutter Fort,1
-Whitby,1
-Roane County,1
-Kearneysville,1
-Parkersburg,1
-Old Fields,1
-Mingo County,1
-Hardy County,1
-Standing Rock Reservation,1
-Stutsman County,1
-West Fargo,1
+Stamford,1
+Old Saybrook,1
+Fargo,1
+Mott,1
+Devils Lake,1
+Belcourt,1
+Cle Elum,1
 Devil's Lake,1
-Mitchell,1
-Lead,1
+West Fargo,1
+Stutsman County,1
+Standing Rock Reservation,1
+Wood Lake,1
+Basin,1
+Lander,1
+Wapato,1
+Suffield,1
+Tukwila,1
+East Wenatchee,1
+Muckleshoot Indian Reservation,1
+Kakaako,1
+Kaneohe,1
+Beaver,1
+Wailuku,1
+Pahoa,1
+Nanakuli,1
+Ridgefield,1
+North Shore,1
+Papaaloa,1
+Aiea,1
+Kahuku,1
+Oakdale,1
+Bridgeport,1
+Greer,1
 Kyle,1
-Parmelee,1
-Box Elder,1
-New Underwood,1
-White Lake,1
-McLaughlin,1
-Hanson County,1
-Winooski,1
-Poultney,1
-Tunbridge,1
-West Brattleboro,1
-Tiverton,1
 Providence,1
+Tiverton,1
+Sumas,1
+West Brattleboro,1
+Snohomish,1
+Tunbridge,1
+Poultney,1
+Winooski,1
+Hanson County,1
+McLaughlin,1
+White Lake,1
+New Underwood,1
+Box Elder,1
+Parmelee,1
+Woodland,1
+New Milford,1
+Hunters,1
+Grapeview,1
+Thurston County,1
+Lead,1
+Mitchell,1
 Waterbury,1
 West Haven,1
 Ansonia,1
-Oakdale,1
-Belcourt,1
-Devils Lake,1
-Mott,1
-Fargo,1
-Old Saybrook,1
-Stamford,1
-Suffield,1
 East Hartford,1
-Bridgeport,1
-New Milford,1
-New Britain,1
-Danbury,1
-Norwich,1
+Olympia,1
 Wethersfield,1
-Hurricane,1
-Scarbo,1
-Reynoldsville,1
-Indian Land,1
-Camp Croft,1
-Huger,1
-Walterboro,1
-Pelion,1
-Inman,1
-Orangeburg,1
-Hartsville,1
-Easley,1
-Andrews,1
-Dalzell,1
-James Island,1
-Warrenville,1
-Clemson,1
-Greer,1
-Calhoun County,1
-Johns Island,1
-Blacksburg,1
-Enoree,1
-Campobello,1
-Latta,1
-Chesterfield County,1
-Landrum,1
-Edmund,1
-Lake City,1
-Little Mountain,1
-Moncks Corner,1
-Swansea,1
-Iva,1
-Sumter,1
-Pendleton,1
-Lake View,1
-Surfside Beach,1
-Simpsonville,1
-West Ashley,1
-Anderson County,1
-Monongalia,1
-Florence County,1
-Petroleum,1
-Weirton,1
-Buckhannon,1
-Hometown,1
+Norwich,1
+Danbury,1
+New Britain,1
+Keaau,1
+Lynnwood,1
+Maui,1
+Dewey Beach,1
 Clendenin,1
+Hometown,1
+Buckhannon,1
+Weirton,1
+Petroleum,1
+Elkins,1
+Braxton County,1
+Richland,1
+Bluefield,1
+Nitro,1
+Meadow Bridge,1
+Bainbridge Island,1
+Fort Ashby,1
+Follansbee,1
+Seaford,1
+Bellingham,1
+Rehoboth Beach,1
+Lewes,1
+Frederica,1
+Claymont,1
+Aiken County,1
+Laurens County,1
+Jacksonboro,1
+Spartanburg County,1
+Georgetown County,1
+Florence County,1
+Anderson County,1
+Indian Land,1
+West Ashley,1
+Calhoun County,1
 Hensley,1
 Grafton,1
 Brandywine,1
 Gerrardstown,1
-Mannington,1
-Frametown,1
-West Milford,1
-Valley Head,1
-Sissonville,1
+Bradley,1
+Lewis County,1
+Birch River,1
+Doddridge County,1
+Hardy County,1
+Mingo County,1
+Old Fields,1
+Parkersburg,1
+Kearneysville,1
+Roane County,1
+Whitby,1
+Nutter Fort,1
+Cross Lanes,1
+Ona,1
+Drennen,1
+Pocahontas County,1
+Welch,1
+Pentress,1
+Clarksburg,1
+Hurricane,1
+Scarbo,1
+Reynoldsville,1
+Monongalia,1
 Inwood,1
-Elkins,1
-Braxton County,1
-Bluefield,1
-Frederica,1
-Georgetown County,1
-Spartanburg County,1
-Jacksonboro,1
-Laurens County,1
-Aiken County,1
-Claymont,1
-Lewes,1
-Nitro,1
-Rehoboth Beach,1
-Seaford,1
-Dewey Beach,1
-Follansbee,1
-Fort Ashby,1
-Meadow Bridge,1
-Unadilla,1
-Wallkill,1
-Manorville,1
-Evans County,1
-Lithonia,1
-Aragon,1
-Perry,1
-Clayton County,1
-Gordon County,1
-Fairburn,1
-Lowndes County,1
-Warner Robins,1
-Toccoa,1
-McLemoresville,1
-West Knox,1
-Dickson,1
-Gibson County,1
-Humboldt,1
-Gallatin,1
-Rex,1
-College Park,1
-Moscow,1
-Allenhurst,1
-Bainbridge,1
-Cuthbert,1
-Hogansville,1
-Claxton,1
-Sylvania,1
-Chickamauga,1
-Norcross,1
-Lilburn,1
-Fayette County,1
-Reidsville,1
-Lithia Springs,1
-Camden County,1
-Ray City,1
-Cairo,1
-Rocky Face,1
-Estill Springs,1
-Counce,1
-East Ridge,1
-Decatur County,1
-Blountville,1
-Cheatham County,1
-Pigeon Forge,1
-Collierville,1
-Bradley County,1
-Bluff City,1
-Ooltewah,1
-Elizabethon,1
-Soddy Daisy,1
-Mufreesboro,1
-Sale Creek,1
-Bulls Gap,1
-Clarkrange,1
-Etowah,1
-Rockwood,1
-Claiborne County,1
-Walter Hill,1
-Dyersburg,1
-Cosby,1
-Reagan,1
-Mt. Pleasant,1
-Lewisburg,1
-Oneida,1
-Somerville,1
-Bon Aqua,1
-Hixson,1
-Tullahoma,1
-Livingston,1
-300 block of State Line Road,1
-Greenback,1
-Bartlett,1
-Cocke County,1
-South Knoxville,1
-Dahlonega,1
-Conyers,1
-Pearson,1
-Eden,1
-Heath Township,1
-Iron River,1
-Bennington Township,1
-Gobles,1
-Niles Charter Township,1
-Orangeville Township,1
-Burton,1
-Ellis Township,1
-Brown City,1
-Taylor,1
-Monterey Township,1
-Albion,1
-Clarkesville,1
-Port Wentworth,1
-White,1
-Beaver Township,1
-Reading Township,1
-Edmore,1
-Bagley Township,1
-Pavilion Township,1
-West Olive,1
-St. Clair Shores,1
-Lincoln Township,1
-Sebewaing,1
-Pennfield Township,1
-St. Joseph County,1
-Chesaning,1
-Walloon Lake,1
-Redford Township,1
-Delta Township,1
-Eckford Township,1
-Madison Heights,1
-Oshtemo Township,1
-Jesup,1
-Whitfield County,1
-Grovetown,1
-Paulding County,1
-Chatham County,1
-Clayton,1
-Locust Grove,1
-Molena,1
-Johns Creek,1
-Carnesville,1
-Walton County,1
-Bibb County,1
-Calhoun,1
-McIntosh County,1
-Salacoa,1
-Sandy Springs,1
-Glenwood,1
-Porterdale,1
-Glennville,1
-Dunwoody,1
-Rincon,1
-Monticello,1
-Moultrie,1
-Cochran,1
-Elberton,1
-Ludowici,1
-Woodstock,1
-Tyrone,1
-Brooklet,1
-Lumpkin,1
-Thomas County,1
-Cedartown,1
-Lizella,1
-Peachtree City,1
-Bonaire,1
-Habersham,1
-Griffin,1
-Maury County,1
-Bethel Springs,1
-Oneonta,1
-Barrow,1
-Seward,1
-Pilot Station,1
-Nikolaevsk,1
-Copper Center,1
-Palmer,1
-Juneau,1
-Kasilof,1
-Anchor Point,1
-Eagle River,1
-Holy Cross,1
-Selawik,1
-Salcha,1
-Aniak,1
-New City,1
-Clarendon,1
-Big Lake,1
-Spenard,1
-Kingston Springs,1
-Kenai Peninsula,1
-Elizabeth City,1
-Churchland,1
-Graham County,1
-Whiteville,1
-Traphill,1
-Grantsboro,1
-Winstom-Salem,1
-Canetuck,1
-Bahama,1
-Stovall,1
-Swan Quarter,1
-King,1
+Sissonville,1
+Valley Head,1
+West Milford,1
+Frametown,1
+Mannington,1
+St. Martin,1
+Battle Ground,1
+Gautier,1
+Hurdle Mills,1
 Siler City,1
-Locust,1
+King,1
+Swan Quarter,1
+Stovall,1
+Bahama,1
+Canetuck,1
+Winstom-Salem,1
+Grantsboro,1
+Traphill,1
+Whiteville,1
+Graham County,1
+Tillamook County,1
+Churchland,1
+Elizabeth City,1
+McDowell County,1
 Harnett County,1
-Islip,1
-Beacon,1
-Constantia,1
+Scappoose,1
+Rutherford County,1
+Spruce Pine,1
+Pollocksville,1
+Mooresville,1
+Roxboro,1
+Calypso,1
+Myrtle Creek,1
+Hubert,1
+Linwood,1
+WInston Salem,1
+Mocksville,1
+Polkton,1
+Fleetwood,1
+Locust,1
+Rogue River,1
+Lucedale,1
+Holy Cross,1
+Malone,1
 Coney Island,1
-Kirkwood,1
-Lee,1
-Ardsley,1
-Jamaica,1
-Arietta,1
-Brentwood,1
-Ithaca,1
-Deposit,1
-Port Jervis,1
-Newburgh,1
+Gates,1
+Warrenton,1
+Constantia,1
+Beacon,1
+Valley Falls,1
+Tigard,1
+Islip,1
+Clarendon,1
+New City,1
+Aniak,1
+Salcha,1
+Selawik,1
+Eagle River,1
+Corvallis,1
+Anchor Point,1
+Kasilof,1
+Juneau,1
+Palmer,1
+Copper Center,1
+Eagle Point,1
+Nikolaevsk,1
+Pilot Station,1
+Seward,1
+Big Lake,1
+Reedsport,1
+Barrow,1
+Spenard,1
+Kenai Peninsula,1
+Asheboro,1
+Wilson,1
+Lincolnton,1
+Ronda,1
+Iredell County,1
+Stoneville,1
+East Flat Rock,1
+Kinston,1
+Anson County,1
+Lehigh,1
+Leavenworth,1
+Union Grove,1
+Deland,1
+Spring Lake,1
+Wadesboro,1
+Junction City,1
+Pinnacle,1
+Ashe County,1
+Finney County,1
+Assaria,1
+Wamego,1
+Dublin,1
+Brevard,1
+Pratt,1
+Chetopa,1
+Gaston County,1
+Stewart County,1
+Tellico Plains,1
+Madisonville,1
+Roan Mountain,1
+Cordova,1
+Dandridge,1
+Campbell County,1
+Bolivar,1
+Udall,1
+Peachland,1
+Pleasant Hill,1
+Wilkesboro,1
+Richlands,1
+Wake County,1
+Ramseur,1
+Trinity,1
+Welcome,1
+Watauga County,1
+Ernul,1
+Cofield,1
+Mount Holly,1
+Gardner,1
+Shallotte,1
+Davidson County,1
+Jonesville,1
+Fletcher,1
+Colby,1
+Timberlake,1
+Kings Mountain,1
+Parkton,1
+Hesston,1
+Morganton,1
+Rosalia,1
+Newton Grove,1
+Cary,1
+Efland,1
+Rowland,1
+Granite Falls,1
+McPherson,1
+Rutherfordton,1
+Medicine Lodge,1
+Staten Island,1
+Mount Vernon,1
+Potsdam,1
+Baldwin County,1
+Eclectic,1
+Talladega,1
+Demopolis,1
+Haynesville,1
+Citronelle,1
+Barnwell,1
+Pell City,1
+Burns,1
+Oregon City,1
+Anniston,1
+Fairhope,1
+Leeds,1
+Crenshaw County,1
+Clay,1
+Tualatin,1
+Opp,1
+Grants Pass,1
+Westover,1
+King City,1
+Eastaboga,1
+Macon County,1
+West Linn,1
+Wolf Creek,1
+Meridianville,1
+Rainbow City,1
+Opelika,1
+Monroeville,1
+Muscle Shoals,1
+Boring,1
+Arab,1
+Ranburne,1
+Hanceville,1
+Gordo,1
+Josephine County,1
+Smithville,1
+Brookhaven,1
+Ruth,1
+Barton,1
+Sedro-Woolley,1
+Chehalis,1
+Edmonds,1
+Priceville,1
+Perdido,1
+Cullman County,1
+Wetumpka,1
+Malbis,1
+Lee County,1
+Jemison,1
+Blount County,1
+Fruithurst,1
+Odenville,1
+Dora,1
+Wilderville,1
+St. Clair County,1
+Columbiana,1
+Luverne,1
+Atmore,1
+Chunchula,1
+Daphne,1
+Ariton,1
+Vestavia Hills,1
+Coden,1
+Elkmont,1
+Sherwood,1
+Lawrence County,1
+New Paltz,1
+Stanfordville,1
 Manlius,1
+Newburgh,1
+Port Jervis,1
+Deposit,1
+Ithaca,1
+Brentwood,1
+Arietta,1
+Jamaica,1
+Ardsley,1
+Oakridge,1
+Lee,1
+Kirkwood,1
+Greenport,1
+Fredonia,1
+Maspeth,1
+Keizer,1
+Central Point,1
+Merrick,1
+Manhasset,1
+Silverton,1
+Tremont,1
+Horseheads,1
+Canandaigua,1
+Glenville,1
+Lincoln CIty,1
+Welches,1
+Berne,1
+Rotterdam,1
+Cheektowaga,1
+Wilsonville,1
 New Rochelle,1
 East Northport,1
 Sodus,1
 Coram,1
-Greenport,1
-Fredonia,1
-Stanfordville,1
-Rotterdam,1
-Malone,1
-Staten Island,1
-Mount Vernon,1
-Potsdam,1
-New Paltz,1
-Cheektowaga,1
-Berne,1
-Maspeth,1
-Glenville,1
-Canandaigua,1
-Horseheads,1
-Tremont,1
-Manhasset,1
-Merrick,1
-Hurdle Mills,1
-McDowell County,1
-Rutherford County,1
-Granite Falls,1
-Ronda,1
-Ashe County,1
-Pinnacle,1
-Wadesboro,1
-Spring Lake,1
-Statesville,1
-Union Grove,1
-Anson County,1
-Kinston,1
-East Flat Rock,1
-Stoneville,1
-Iredell County,1
-Peachland,1
-Pleasant Hill,1
-Wilkesboro,1
-Dublin,1
-Brevard,1
-Gaston County,1
-Rogersville,1
-La Vergne,1
-Rutledge,1
-Clarkville,1
-Overton County,1
-Westmoreland,1
-McDonald,1
-Hart County,1
-Stewart County,1
-Campbell County,1
-Dandridge,1
-Cordova,1
-Roan Mountain,1
-Madisonville,1
-Tellico Plains,1
-Rutherfordton,1
-Rowland,1
-Spruce Pine,1
-Efland,1
-Wake County,1
-Richlands,1
-Lincolnton,1
-Wilson,1
-Asheboro,1
-Fleetwood,1
-Polkton,1
-Mocksville,1
-WInston Salem,1
-Linwood,1
-Hubert,1
-Calypso,1
-Roxboro,1
-Mooresville,1
-Pollocksville,1
-Ramseur,1
-Trinity,1
-Welcome,1
-Timberlake,1
-Shelby,1
-Cary,1
-Newton Grove,1
-Morganton,1
-Parkton,1
-Kings Mountain,1
-Fletcher,1
-Watauga County,1
-Jonesville,1
-Davidson County,1
-Shallotte,1
-Mount Holly,1
-Cofield,1
-Ernul,1
-Caneyville,1
-Carrizozo,1
-Trigg County,1
+Bay Minette,1
+Amity,1
+Bandon,1
+Dadeville,1
+Blue Hill,1
+Topsham,1
+Falmouth,1
+Mars Hill,1
+Waterville,1
+Jefferson,1
+Minot,1
+Limerick,1
+Gorham,1
+Wales,1
+Oakfield,1
+Orrington,1
+Arundel,1
+Belgrade,1
+Waldoboro,1
+The Dalles,1
+Bangor,1
+Saranac Lake,1
+Hyde Park,1
+Dolgeville,1
+Unadilla,1
+Wallkill,1
+Manorville,1
+Oneonta,1
+Cottage Grove,1
+Martinez,1
+El Cerrito,1
+Sneads,1
+St. Helena Parish,1
+Lacombe,1
+Port Allen,1
+Pima,1
+Bastrop,1
+DeRidder,1
+Treme,1
+Hammond,1
+Amite,1
+Haughton,1
+Goodbee,1
+New Llano,1
+Bogalusa,1
+West Monroe,1
+St. Tammany Parish,1
+Gibson,1
+West Ouachita,1
+Bernice,1
+Lincoln Parish,1
+Coushatta,1
+Homer,1
+Mamou,1
+Cade,1
+Converse,1
+Youngtown,1
+Kenner,1
+Livingston Parish,1
+Plaquemine,1
+Pinetop-Lakeside,1
+Picture Rocks,1
+Ethel,1
+Keithville,1
+Gretna,1
+Iota,1
+Philipsburg,1
+Sierra Vista,1
+Bozeman,1
+Lodge Grass,1
+Somerton,1
+Three Forks,1
+Malta,1
+Butte,1
+Show Low,1
+Dillon,1
+Superior,1
+Huntley,1
+Assumption Parish,1
+Marrero,1
+Bullhead City,1
+Fordoche,1
+Vernon Parish,1
+Wisner,1
+Westwego,1
+Doyline,1
+Berwick,1
+Madison Parish,1
+Red River Parish,1
+Golden Shores,1
+Mount Hermon,1
+Montegut,1
+Tangipahoa Parish,1
+Jefferson Parish,1
+Caddo Parish,1
+Three Points,1
+Raceland,1
+Bigfork,1
+New Lyme Township,1
+Tuscson,1
+Pinetop,1
+Butler Township,1
 Clarkdale,1
-Moore,1
-Sapulpa,1
-Claremore,1
-Wilburton,1
-Poteau,1
-Mustang,1
-Jay,1
-The Village,1
-Rogers County,1
-Cookson,1
-Kenwood,1
-Glenpool,1
-Vici,1
-Webbers Falls,1
-Antlers,1
-Washita County,1
-Henryetta,1
-Kansas,1
+Hockingport,1
+Powatan Point,1
+Alliance,1
+Ashtabula Township,1
+Wadsworth,1
+Van Wert,1
+Village of Oak Creek,1
+Elyria,1
+Sugarcreek,1
+Fort Defiance,1
+Struthers,1
+Defiance,1
+Barberton,1
+Niles,1
+Apple Creek,1
+Oro Valley,1
+Hilltop,1
+Washington Court House,1
+Pike County,1
+Delaware,1
+Martins Ferry,1
+Rio Rico,1
+Prescott Valley,1
+Paradise Valley,1
+St. Michaels,1
+Elmwood Place,1
+Washington Township,1
+Port Barre,1
+Liberty Township,1
+Ragley,1
+Pima County,1
+Pride,1
+Winnsboro,1
+Breaux Bridge,1
+Marksville,1
+Mandeville,1
+Lakes Charles,1
+Grand Canyon Caverns,1
+Lake Havasu,1
+Chalmette,1
+Salt River Reservation,1
+Chinle,1
+Ehrenberg,1
+Ahwatukee,1
+Parks,1
+Tonalea,1
+Evangeline Parish,1
+Tolleson,1
+Mason,1
+Gurnsey County,1
+Windham Township,1
+Huber Heights,1
+Youngstown,1
+Globe,1
+Leroy Township,1
+Nelsonville,1
+Ravenna Township,1
+Bethel Township,1
+Wilhoit,1
+Kearny,1
+Hanford,1
+Green Forest,1
+Sparkman,1
+Hot Spring,1
+Alexander,1
 Talihina,1
+St. Francis County,1
+Bixby,1
+Enid,1
+Okarche,1
+Bryant,1
+Noble County,1
+Formosa,1
+Sperry,1
+Del City,1
+Blackwell,1
+Blytheville,1
+Rector,1
+Pope County,1
+Magnolia,1
+Porteau,1
+Van Buren,1
+Trumann,1
+Mississippi County,1
+Kansas,1
+Hackett,1
+Helena-West Helena,1
+Searcy County,1
+Lone Rock,1
+Henryetta,1
+Romance,1
+Hot Springs,1
+Harrison,1
+Rose Bud,1
+Lonoke,1
+Tom,1
+Maeystown,1
+Wewoka,1
+Jerseyville,1
+Lyons,1
+Roland,1
+Millerton,1
+North Riverside,1
+Markham,1
+Round Lake,1
+East St. Louis,1
+Boswell,1
+McLoud,1
+Washington Park,1
+Pink,1
+Shawnee National Forest,1
+Lisle,1
+Rantoul,1
+River Forest,1
 Grant,1
 Owasso,1
 Mannford,1
 Oaks,1
 Tishomingo,1
+Arcola,1
+Wynne,1
+Rogers,1
+Conway,1
 Prague,1
-Bixby,1
-Porteau,1
-Enid,1
-Okarche,1
-Noble County,1
-Sperry,1
-Del City,1
-Blackwell,1
+Washita County,1
+Moore,1
+Trout Creek,1
+Emery County,1
+Layton,1
 Cartwright,1
 Duncan,1
 Arkoma,1
-Chinle,1
-Picture Rocks,1
-Three Points,1
-Pima County,1
-Grand Canyon Caverns,1
-Lake Havasu,1
-Salt River Reservation,1
-Ehrenberg,1
-Youngtown,1
-Ahwatukee,1
-Parks,1
-Tonalea,1
-Tolleson,1
-Globe,1
-Tuscson,1
-Pinetop-Lakeside,1
-Pima,1
 Geary,1
-Red Valley,1
 Wagoner County,1
+Cottonwood Heights,1
+Sugar House,1
+Magna,1
 Hooker,1
+Sandy,1
+Montezuma Creek,1
+Aragonite,1
 Guymon,1
+Logan Canyon,1
+Eagle Mountain,1
+Milcreek,1
 Morenci,1
 San Manuel,1
+Logan,1
+Parowan,1
+Roosevelt,1
 La Paz County,1
+Draper,1
+Red Valley,1
 Bisbee,1
-Golden Shores,1
-Kearny,1
-Wilhoit,1
-Sierra Vista,1
-Somerton,1
-Show Low,1
-Bullhead City,1
-Pink,1
-McLoud,1
-Boswell,1
-Durango,1
-Rifle,1
-Watkins,1
-Glenwood Springs,1
-Orchard Mesa,1
-Brandon,1
-Idaho Springs,1
-Fruita,1
-Lone Tree,1
-Loma,1
-Fort Carson,1
-Holyoke,1
-Clear Creek County,1
-Hotchkiss,1
-El Paso County,1
-Friendly Hills,1
-LaSalle,1
-Peyton,1
-North Fort Collins,1
-Broomfield,1
-Mountain View,1
-Park County,1
-Montrose County,1
-Federal Heights,1
-Pleasant View,1
-Golden,1
-Longmont,1
-Valdez,1
-Highlands Ranch,1
-Fort Morgan,1
-Clear Creek Canyon,1
-Gunnison County,1
-Rangley,1
-Canon City,1
-Gunnison,1
-Millerton,1
-Watts,1
-Rush Springs,1
-Wetumka,1
-Leedey,1
-Okemah,1
-Burns Flat,1
-Fairland,1
-Kiowa,1
-Schulter,1
-Bethany,1
-Byars,1
-Logan County,1
-Tom,1
-Wewoka,1
-Roland,1
-Byng,1
-Healdton,1
-Wheat Ridge,1
-Rufe,1
-Pueblo West,1
-Araphoe County,1
-Manitou Springs,1
-Coal County,1
-Pottawatomie County,1
-Kellyville,1
-Bunch,1
-Pryor,1
-Okmulgee County,1
-Ardmore,1
-Cushing,1
-Midwest City,1
-Hominy,1
-Colbert,1
-Pinetop,1
-Village of Oak Creek,1
+Lame Deer,1
+Fort Belknap,1
+Kalispell,1
+Cedar City,1
+Antlers,1
+Sapulpa,1
+Millcreek,1
+Yellville,1
+Claremore,1
+Wilburton,1
+Sheridan,1
+Bull Shoals,1
+Desha,1
+Poteau,1
+Mustang,1
+Jay,1
+The Village,1
+Rogers County,1
+Sims,1
+Mena,1
+Mountain Pine,1
+Cookson,1
+Kenwood,1
+England,1
+Strong,1
+Glenpool,1
+South Jordan,1
+Grantsville,1
+Murray,1
+Vici,1
+Herriman,1
+Tooele,1
+Midvale,1
+Bountiful,1
+Holladay,1
+Webbers Falls,1
+Girard,1
+San Tan Valley,1
+Wilcox,1
+Whitewright,1
+Midlothian,1
+Canton Township,1
+Perryopolis,1
+Grand Prarie,1
+Terrell,1
+Panhandle,1
+Fort Stockton,1
+Fritch,1
+Gilmer,1
+Campbellton,1
+Erie,1
+Pharr,1
 Friendswood,1
-Fort Defiance,1
+King of Prussia,1
+Old Forge,1
+Gladewater,1
+Dover Township,1
+Groveton,1
+Bristol Township,1
+Abington Township,1
+Harker Heights,1
+Myra,1
+Rosser,1
+Lower Macungie Township,1
+Bellville,1
+Volant,1
+Lower Burrell,1
+Kingsbury,1
+Prompton,1
+Cisco,1
+Fairchance,1
+Splendora,1
+Balch Springs,1
+Childress,1
+Greenspoint,1
+Littlefield,1
+Johnstown,1
+Fort Littleton,1
+South Greensburg,1
+Chambersburg,1
+Winters,1
+Bloomsburg,1
+Bedford,1
+Avella,1
+Camp Wood,1
+Crowell,1
+Forks Township,1
+Progreso,1
+Huntingdon County,1
+The Colony,1
+Sharon,1
+Lancaster City,1
+Cedar Lake,1
+Kingwood,1
+Rockwall,1
+La Porte,1
+Watagua,1
+Channelview,1
+Stewartstown,1
+Lower Mount Bethel,1
+Gonzales County,1
+Mead Township,1
+Lockhart,1
+Addison,1
+Steubenville,1
+Williamsport,1
+Catasauqua,1
+New Wilmington,1
 Muhlenberg Township,1
 Saltlick Township,1
 Williams Township,1
 Delaware Township,1
+DeSoto,1
+Onalaska,1
 Conshohocken,1
 Butler,1
 Sharon Hill,1
+Nocona,1
+Lorena,1
 Falls Township,1
 Mahoning Township,1
+Sunset,1
+Tahoka,1
 Greene Township,1
+Levelland,1
+Sierra Blanca,1
+Chapeno,1
 Pocono Township,1
+Mabank,1
 Foster Township,1
 North Middleton,1
 South Connellsville,1
-Malvern,1
-New Wilmington,1
-Catasauqua,1
-Williamsport,1
-Jim Thorpe,1
+Freeport,1
+Jackson Township,1
+Mount Pleasant Township,1
+Fuqua,1
+Tomball,1
+South Whitehall Township,1
+Pennsburg,1
+Beckville,1
+Philadephia,1
+Franklin Township,1
+Aspers,1
+Maryneal,1
 Greensburg,1
 State College,1
+Wink,1
+Seagoville,1
 Penn Hills,1
+Leon County,1
+North Laredo,1
 Ross Township,1
 Three Springs,1
 Shaler Township,1
+Ponder,1
+Jim Thorpe,1
 Hanover Township,1
-Pennsburg,1
+Clute,1
+Springtown,1
 Nelson Township,1
 New Kensington,1
 Myerstown,1
 Hazleton,1
-Smithfield Township,1
-Forksville,1
-Mount Pleasant Township,1
-Jackson Township,1
-Freeport,1
-Splendora,1
-Leon County,1
-Seagoville,1
-Wink,1
-Maryneal,1
-Beckville,1
-Addison,1
-Lockhart,1
-Ponder,1
-Kingsbury,1
-Bellville,1
-Rosser,1
-Myra,1
-Harker Heights,1
-Groveton,1
-North Laredo,1
-Clute,1
-Mabank,1
-Nocona,1
-Chapeno,1
-Sierra Blanca,1
-Levelland,1
-Tahoka,1
-Sunset,1
-Lorena,1
-Onalaska,1
-Springtown,1
-DeSoto,1
-Fuqua,1
-Tomball,1
-Hutchins,1
-Winnie,1
 Brookshire,1
-Aspers,1
-Franklin Township,1
-Philadephia,1
-Council Bluffs,1
+Smithfield Township,1
+Winnie,1
+Forksville,1
+Hutchins,1
+Penn Township,1
+Vernon,1
+Sandia,1
+North English,1
 Dakota City,1
+Mt. Auburn,1
+Southington,1
 Nashua,1
+Findlay,1
+Green,1
 Moorland,1
 Panora,1
+Vinton,1
+Beeville,1
+Port Neches,1
+Falfurrias,1
+Duncanville,1
+Cooke County,1
+Uvalde,1
+Seabrook,1
+Dime Box,1
+Sugar Land,1
 Creston,1
+Hutchinson County,1
+Clear Lake Shores,1
+Beasley,1
 Ankeny,1
-Webster City,1
-North English,1
-Martelle,1
-Thompson,1
-Chelsea,1
-Waterloo,1
-Iowa Falls,1
-Sergeant Bluff,1
+Wichita  Falls,1
+Simms,1
+Snook,1
+Pflugerville,1
+Crosby,1
+Seguin,1
 West Burlington,1
+Twinsburg,1
+Mathis,1
 Sioux City,1
-Straban Township,1
-Wilcox,1
-Oro Valley,1
-Rio Rico,1
-Prescott Valley,1
-Paradise Valley,1
-St. Michaels,1
-San Tan Valley,1
+New Straitsville,1
+Uniontown,1
+Vandalia,1
+St. Clair Township,1
 Fort Mohave,1
-Urbandale,1
+Tiffin,1
+Colebrook Township,1
 Kayenta,1
+Euclid,1
+Medina,1
+Geneva Township,1
+Howland Township,1
 Arizona City,1
 Safford,1
 Fort Apache Reservation,1
 Sanders,1
+North Royalton,1
+Willoughby,1
+Westlake,1
 Wellman,1
-Hummelstown,1
+Urbandale,1
+Rome,1
+Circleville,1
+Oak Hill,1
+Fairborn,1
+Perry Township,1
+Northwood,1
+Richmond Heights,1
+Zanesville,1
+Horizon City,1
+Flour Bluff,1
+Forest Hill,1
+Alvarado,1
+Bracketville,1
+Straban Township,1
 Somerset,1
-South Whitehall Township,1
-Old Forge,1
-Mead Township,1
-Fairchance,1
-Canton Township,1
-Perryopolis,1
-Erie,1
-King of Prussia,1
-Dover Township,1
-Stewartstown,1
-Bristol Township,1
-Abington Township,1
-Lower Macungie Township,1
-Volant,1
-Lower Burrell,1
-Prompton,1
-Lower Mount Bethel,1
-Lancaster City,1
+Bacliff,1
+Seminole,1
+Hopkins County,1
 Campbelltown,1
-Johnstown,1
 Pittston,1
+Watauga,1
+Dalhart,1
+Canutillo,1
+Cochran County,1
+Burnet,1
 West Chester,1
+Quanah,1
+Poteet,1
 Mount Washington,1
 East Stroudsburg,1
+Quinlan,1
+Missouri City,1
+Hereford,1
+Pattison,1
+Alvin,1
+Dilley,1
 Canaan Township,1
-Penn Township,1
-Fort Littleton,1
-Sharon,1
-South Greensburg,1
-Chambersburg,1
-Bloomsburg,1
-Avella,1
-Forks Township,1
-Huntingdon County,1
-Strasburg,1
-Eldorado Springs,1
-Cañon City,1
-Dinosaur,1
-Medicine Lodge,1
-Udall,1
-Lehigh,1
-Leavenworth,1
-Junction City,1
-Finney County,1
-Wamego,1
-Pratt,1
-Chetopa,1
-Manhattan,1
-North Topeka,1
-Minneola,1
-Lenexa,1
-Plainville,1
-Chanute,1
-McPherson,1
-Rosalia,1
-Hesston,1
-Reedsport,1
-Wilsonville,1
-Gates,1
-Warrenton,1
-Valley Falls,1
-Tigard,1
-Eagle Point,1
-Corvallis,1
-Colby,1
-Rogue River,1
-Tillamook County,1
-Scappoose,1
-Myrtle Creek,1
-Assaria,1
-Gardner,1
-Baxter Springs,1
-Cowley County,1
-Saline County,1
-West Goshen,1
-Weitchpec,1
-Downey,1
-Monterey,1
-Aguanga,1
-Pinion Hills,1
-Valinda,1
-Highgrove,1
-San Diego County,1
-Pacific Beach,1
-Marina,1
-Lynwood,1
-Smartsville,1
-Palo Alto,1
-Santa Nella,1
-Inyokern,1
-Studio City,1
-Apple Valley,1
-Shafter,1
-Calimesa,1
-South Los Angeles,1
-Oxnard,1
-Hawthorne,1
-Tehachapi,1
-Montclair,1
-Windsor,1
-Meadow Vista,1
-Venice,1
-Rancho Santa Margarita,1
-Watsonsville,1
-Hawaiian Gardens,1
-Boulder Creek,1
-Needles,1
-Welches,1
-Lincoln CIty,1
-Silverton,1
-Benton City,1
-Frederickson,1
-Oak Harbor,1
-Hillyard,1
-Bremerton,1
-Ebey Island,1
-Elk Plain,1
-Kent Station,1
-Richland,1
-Cheney,1
-Stanwood,1
-Walla Walla,1
-Alderwood Manor,1
-Glenoma,1
-Kittitas,1
-Bainbridge Island,1
-Bellingham,1
-Toppenish,1
-Olympia,1
-Sumas,1
-Snohomish,1
-Woodland,1
-Hunters,1
-Grapeview,1
-Thurston County,1
-Cle Elum,1
-Lynnwood,1
-Wapato,1
-Tukwila,1
-East Wenatchee,1
-Muckleshoot Indian Reservation,1
-Beaver,1
-Ridgefield,1
-Montesano,1
-Centralia,1
-Central Point,1
-Boring,1
-Oregon City,1
-Tualatin,1
-Grants Pass,1
-King City,1
-West Linn,1
-Wolf Creek,1
-Sherwood,1
-Josephine County,1
-Keizer,1
-Amity,1
-Bandon,1
-The Dalles,1
-Cottage Grove,1
-Oakridge,1
-Burns,1
-Wilderville,1
-Poulsbo,1
-Redmond,1
-Black Diamond,1
-Moses Lake,1
-Ritzville,1
-Shoreline,1
-Bothell,1
-Port Orchard,1
-Airway Heights,1
-Edmonds,1
-Lewiston,1
-North Bend,1
-Algona,1
-Battle Ground,1
-Sedro-Woolley,1
-Chehalis,1
-Rosemead,1
-North Hills,1
-Yorba Linda,1
-Laguna Niguel,1
-Home Garden,1
-Ono,1
-Brea,1
-Lamont,1
-Madera County,1
-Half Moon Bay,1
-Industry,1
-Nipton,1
-Palm Desert,1
-Culver City,1
-Dos Palos,1
-Nipomo,1
-California City,1
-Lucerne,1
-Muscoy,1
-Murrieta,1
+Galveston,1
+Silsbee,1
+Dumas,1
+Rio Bravo,1
+Plainview,1
+Sanger,1
+Kountze,1
+Wolfe City,1
+Council Bluffs,1
+Mount Pleasant,1
+Cypress,1
+Wylie,1
+Lacy Lakeview,1
+Baylor County,1
+Webster City,1
+Cherokee County,1
+Cass County,1
+Brewster County,1
+Tyler,1
+Nederland,1
+Riesel,1
+Martelle,1
+Sweetwater,1
+Thompson,1
+Chelsea,1
+Giddings,1
+Waterloo,1
+Refugio,1
+Elmendorf,1
+Humble,1
+Iowa Falls,1
+Cloverleaf,1
+Sergeant Bluff,1
+Floresville,1
+Hummelstown,1
+Marshall,1
+Rock Falls,1
+Elgin,1
+Mackinaw,1
+Rowland Heights,1
+New Albany,1
+Brownstown,1
+Altadena,1
+Dearborn County,1
+Crawfordsville,1
+Homeland,1
+Dixon,1
+North Manchester,1
+Merrillville,1
+Alta Sierra,1
+Boonville,1
+Owen County,1
+Columbua,1
+Dyer,1
+Fishers,1
+Indian Wells,1
+Goshen,1
+Vincennes,1
+Costa Mesa,1
+English,1
+Knox,1
+Whitewater,1
+San Andreas,1
+Placentia,1
+French Lick,1
+Arleta,1
+Buena Park,1
+Beech Grove,1
+Monon,1
+Lucerne Valley,1
+Randolph County,1
+Signal Hill,1
+Harrison County,1
+Pine Top,1
+Brodhead,1
+Elsmere,1
 Templeton,1
-Big Sur,1
-Banning,1
-Napa Valley,1
-Perris,1
-Goleta,1
-Huron,1
-Escalon,1
-Oak View,1
-Clearlake Oaks,1
-Chino Hills,1
-El Cerrito,1
+Loma Linda,1
+Chavies,1
+Wilmore,1
+Citrus Heighs,1
+Gunlock,1
+Palmyra,1
+Dunkirk,1
+Mishawaka,1
+West Carson,1
+Culver,1
+Sunman,1
+Putnamville,1
+Wolcott,1
+Bartholomew County,1
+Munster,1
+Valparaiso,1
+Starke County,1
+Seymour,1
+Ventura,1
+Wabash,1
+Santa Fe Springs,1
+Kennard,1
+Crown Point,1
+Oakland City,1
+West Terre Haute,1
+Humboldt County,1
+West New York,1
+Dumfries,1
+Sonora,1
+Discovery Bay,1
+New Brunswick,1
+Mira Loma,1
+Little Egg Harbor,1
+Brick Township,1
+Simi Valley,1
+Ducor,1
+Byram,1
+Lyndhurst,1
+Ideal Beach,1
+Paramount,1
+Del Norte County,1
+Old Bridge,1
+McLean,1
+Coeburn,1
+Bridgewater,1
+Woolwine,1
+South Hill,1
+Roanoke County,1
+Goodview,1
+Reedley,1
+Luray,1
+Amherst County,1
+Grottoes,1
+Langley,1
+King George County,1
+Stanley,1
+Martinsville,1
+Caroline County,1
+Little Egg Harbor Township,1
+Maurice River,1
+Plainsboro,1
+Bridgeton,1
+Keansburg,1
+Knowlton Township,1
+Long Branch,1
+Hillsborough,1
+Mantua Township,1
+Leonia,1
+Bayonne,1
+Buena Vista,1
+Morris Township,1
+Bass River,1
+Wayne,1
+National City,1
+Secaucus,1
+Farmingdale,1
+Irvington,1
+North Richmond,1
+Pemberton,1
+Passaic,1
+Logan Township,1
+Mantoloking,1
+Deptford,1
+Riverside County,1
+Coachella,1
+Boron,1
+Brick,1
+Bloomfield,1
+North Bergen,1
+Cranbury Township,1
+Toms River,1
+San Clemente,1
+Ludlow,1
+Daviess County,1
+Navarre,1
+Putnam Hall,1
 Herald,1
 Hope Ranch,1
 Sherman Oaks,1
 Imperial County,1
-San Clemente,1
-Loma Linda,1
-Butte County,1
-Discovery Bay,1
-National City,1
-North Richmond,1
-Riverside County,1
-Coachella,1
-Boron,1
-Sonora,1
-Mira Loma,1
-Humboldt County,1
-Simi Valley,1
-Ducor,1
-Paramount,1
-Del Norte County,1
-Reedley,1
-O'Brien,1
-Signal Hill,1
-Buena Park,1
-Citrus Heighs,1
-Homeland,1
-West Carson,1
-Ventura,1
-Santa Fe Springs,1
-Rowland Heights,1
-Lucerne Valley,1
-Altadena,1
-Dixon,1
-Arleta,1
-Alta Sierra,1
-Indian Wells,1
-Costa Mesa,1
-Whitewater,1
-San Andreas,1
-Placentia,1
-Tehama County,1
-Calabasas,1
-Clearlake Park,1
-Olympic Valley,1
-Hacienda Heights,1
-Brawley,1
-Coalinga,1
-Twentynine Palms,1
-Atascadero,1
-Alhambra,1
-Santa Monica,1
-Watsonville,1
-Santa Barbara,1
-Newman,1
-Douglas City,1
-Rocklin,1
-Cabazon,1
-Ladera Heights,1
-La Mirada,1
-Chatsworth,1
-Newport Beach,1
-Santee,1
-Boyle Heights,1
-Solvang,1
-Turlock,1
-Maywood,1
-Bell,1
-City Terrace,1
-Antelope,1
-Santa Cruz,1
-Poway,1
-McKinneyville,1
-East Hollywood,1
-Delhi,1
-Saratoga,1
-Irvine,1
-Santa Paula,1
-San Mateo,1
-Glen Valley,1
-Calaveras County,1
-Baldwin Hills,1
-Foresthill,1
-Palermo,1
-Orosi,1
-Riverbank,1
-Mecca,1
-East Los Angeles,1
-Valley View,1
-Thousand Oaks,1
-Charleston View,1
-Paradise,1
-Martinez,1
-Hanford,1
+Clearlake Oaks,1
+Murrieta,1
+Walpole,1
+Meredith,1
+Belmont,1
+Epping,1
+Gonic,1
+Canaan,1
+Nipton,1
+Peterborough,1
+Merrimack,1
+Bath,1
+Muscoy,1
+Seekonk,1
+Dorchester,1
+Saugus,1
+Winthrop,1
+Leicester,1
+Worcester,1
+Newbury,1
+Brookline,1
+Westborough,1
+Revere,1
+Home Garden,1
+Carollwood,1
+Malvern,1
+East Bernstadt,1
+Chino Hills,1
+Osteen,1
+Jacksonsville,1
+Hog Valley,1
+Noma,1
 Natomas,1
-Oroville,1
-Willits,1
-Barona Indian Reservation,1
-Santa Rosa,1
-Del Mar,1
-Grover Beach,1
-Avenal,1
-Chowchilla,1
-Grand Terrace,1
-Norco,1
-Livermore,1
-Laguna Woods,1
-Orcutt,1
-Arcata,1
-Duarte,1
-Cloverdale,1
-North Hollywood,1
-Nice,1
-Gladewater,1
-Pharr,1
+Glen Valley,1
+Calabasas,1
+Butte County,1
+Belle Glade,1
+Tehama County,1
+Manatee,1
+Opa-Locka,1
+Banning,1
+Napa Valley,1
+Perris,1
+Goleta,1
+Niceville,1
+Huron,1
+Barberville,1
+Little Havana,1
+Thonotosassa,1
+Micanopy,1
+Oakland Park,1
+Escalon,1
+Mascotte,1
+Plantation,1
+Big Sur,1
+Oak View,1
+Ft. Lauderdale,1
+Ono,1
+Brea,1
+Taunton,1
+West Springfield,1
+Owingsville,1
+Carter County,1
+Crestwood,1
+Culver City,1
+Williamsburg,1
+Christian County,1
+Baxter,1
+Dos Palos,1
+Utica,1
+Oil Springs,1
+Scottsville,1
+Warren County,1
+Nipomo,1
+Pippa Passes,1
+California City,1
+Sharpsburg,1
+Trosper,1
+Bardstown,1
+Booneville,1
+Simpsonsville,1
+Bowling Green,1
+Edmonton,1
+Morehead,1
+Phelps,1
+Lucerne,1
+Hiseville,1
+Berea,1
+Fisty,1
+White Plains,1
+Montgomery Creek,1
+Bonnyman,1
+Wolfe County,1
+Gallatin County,1
+Lamont,1
+Madera County,1
+Roslindale,1
+Tewksbury,1
+Weymouth,1
+Cave City,1
+Powell County,1
+Half Moon Bay,1
+Laguna Niguel,1
+Grant County,1
+Hopkinsville,1
+Industry,1
+Ghent,1
+Mason County,1
+Nicholasville,1
+Morgan County,1
+Villa Hills,1
+Caneyville,1
+Hart County,1
+Trigg County,1
 Muhlenberg County,1
-Montgomery County,1
-Affton,1
-Nevada,1
-Neosho,1
-Blue Summit,1
-Monett,1
-Johnson County,1
-Everton,1
-Hayti,1
-Leadwood,1
-Mountain Grove,1
-Cotter,1
-Maryland Heights,1
-Pettis County,1
-Barton County,1
-Holt,1
-Cape Girardeau,1
-Florissant,1
-North St. Louis,1
-Chaparral,1
-Clines Corners,1
-Estancia,1
+McCracken County,1
+Paducah,1
+Hebron,1
+Bell County,1
+Shelby Gap,1
+Dexter,1
+Palm Desert,1
+Goochland County,1
+Colonial Heights,1
+Logan County,1
 Rio Rancho,1
-Belen,1
-Prewitt,1
-Doña Ana County,1
-Lakeshire,1
-Big Bear,1
-Lampe,1
-Maysville,1
-Republic,1
-Lee's Summit,1
-Harrisonville,1
-McDowell,1
-Cuba,1
-Old Mines,1
-Wheeling,1
-Pearisburg,1
-Arvonia,1
-Fredericksburg,1
-Grundy,1
-Stafford,1
-Aldie,1
-Falls Church,1
-Herndon,1
-Grayson County,1
-Woodford,1
-Haymarket,1
-Charlottesville,1
-Lynchburg,1
-Spotsylvania,1
-Glade Spring,1
-Suffolk,1
-King George,1
-Raytown,1
-Webb City,1
-Webster Groves,1
-Adrian,1
-Chillicothe,1
-Kimberling City,1
-De Soto,1
-Stockton Lake,1
-Diggins,1
-Powhatan County,1
-Wentzville,1
-Hermitage,1
-Bonne Terre,1
-Platte County,1
-Cape Girardeau County,1
-Emporia,1
+Clines Corners,1
 Moriarty,1
 Shiprock,1
 Tesuque,1
+Espanola,1
+Ventana Ranch,1
+Rufe,1
+Taos Pueblo,1
+Demming,1
+Laguna,1
+Aztec,1
+Sunland Park,1
+Tularosa,1
+Angel Fire,1
+Meadowlake,1
+Naschitti,1
+Bunch,1
+Tucumcari,1
+Fort Sumner,1
+Penasco,1
+Rudioso,1
+Rowe,1
+San Rafael,1
+Eldorado,1
+Crownpoint,1
+Gallup,1
+Laguna Pueblo,1
+Pueblo of Laguna,1
+Okmulgee County,1
+Estancia,1
+Belen,1
+Carrizozo,1
+Prewitt,1
+Bemidji,1
+Virginia,1
+Shakopee,1
+Hastings,1
+Chanhassen,1
+Lake Elmo,1
+St. James,1
+Wheat Ridge,1
+Crystal,1
+North Branch,1
+Vadnais Heights,1
+Pueblo West,1
+Araphoe County,1
+Manitou Springs,1
+Peterson,1
+Coal County,1
+Falcon Heights,1
+Aitkin,1
+Pottawatomie County,1
+Columbia Heights,1
+Kellyville,1
+Mora,1
+Cohasset,1
+Plymouth,1
+Fridley,1
+New Hope,1
+Bloomington,1
+Chaparral,1
+Doña Ana County,1
+Jal,1
+Ardmore,1
+Hinton,1
 Shorewood,1
-Buffalo Grove,1
-New Lenox,1
-Yorkville,1
-Port Barrington,1
+Okemah,1
 Wood River,1
+Port Barrington,1
+Yorkville,1
+New Lenox,1
+Buffalo Grove,1
+DeKalb,1
+Normal,1
+Carterville,1
+Red Bud,1
+Champaign,1
+Lena,1
+East Peoria,1
+Evanston,1
+Burns Flat,1
+Chicago Heights,1
+Beach Park,1
+Des Plaines,1
+Bridgeview,1
+Fairland,1
+Watts,1
+Kiowa,1
+Macoupin County,1
+Bethany,1
+Richton Park,1
+Lakemoor,1
+South Elgin,1
+Byars,1
+Gurnee,1
 Crest Hill,1
 Pana,1
-Normal,1
+Cushing,1
 Oak Forest,1
-Romeoville,1
-Naperville,1
-Flossmoor,1
-Boulder City,1
-Gardnerville Ranchos,1
-DeKalb,1
-Carterville,1
-Sunridge,1
-Bridgeview,1
-Mackinaw,1
-Gurnee,1
-South Elgin,1
-Lakemoor,1
-Richton Park,1
-Macoupin County,1
-Des Plaines,1
-Red Bud,1
-Beach Park,1
-Chicago Heights,1
-Evanston,1
-East Peoria,1
-Lena,1
-Champaign,1
-Spanish Springs,1
-Stead,1
-Espanola,1
-Angel Fire,1
-Rudioso,1
-Penasco,1
-Fort Sumner,1
-Tucumcari,1
-Naschitti,1
-Meadowlake,1
-Tularosa,1
-San Rafael,1
-Sunland Park,1
-Aztec,1
-Laguna,1
-Demming,1
-Taos Pueblo,1
-Ventana Ranch,1
-Rowe,1
-Eldorado,1
-West Wendover,1
-Eureka County,1
-Mercury,1
-Silver Springs,1
-Yerington,1
-Washoe,1
-Lovelock,1
-Summerlin,1
-Lake Mead,1
-Crownpoint,1
-Lovington,1
 Truth or Consequences,1
-Jal,1
-Pueblo of Laguna,1
-Laguna Pueblo,1
-Gallup,1
-Sussex County,1
-Wythe County,1
-Campbellton,1
-Farmville,1
-Bartholomew County,1
-Wolcott,1
-Putnamville,1
-Sunman,1
-Culver,1
-Mishawaka,1
-Dunkirk,1
-Palmyra,1
-Gunlock,1
-Wilmore,1
-Chavies,1
-Elsmere,1
-Brodhead,1
-Pine Top,1
-Ludlow,1
-Munster,1
-Valparaiso,1
-Starke County,1
-New Albany,1
-Boonville,1
-Merrillville,1
-North Manchester,1
-Crawfordsville,1
-Dearborn County,1
-Brownstown,1
-Randolph County,1
-Seymour,1
-Harrison County,1
-West Terre Haute,1
-Oakland City,1
-Crown Point,1
-Kennard,1
-Wabash,1
-Daviess County,1
-East Bernstadt,1
-White Plains,1
-Wolfe County,1
-Williamsburg,1
-Crestwood,1
-Carter County,1
-Owingsville,1
-Montgomery Creek,1
-Bonnyman,1
-Nicholasville,1
-Baxter,1
-Dexter,1
-Shelby Gap,1
-Bell County,1
-Hebron,1
-Paducah,1
-McCracken County,1
-Christian County,1
-Utica,1
-Fisty,1
-Simpsonsville,1
-Berea,1
-Hiseville,1
-Phelps,1
-Morehead,1
-Edmonton,1
-Bowling Green,1
-Booneville,1
-Oil Springs,1
-Bardstown,1
-Trosper,1
-Sharpsburg,1
-Pippa Passes,1
-Warren County,1
-Scottsville,1
-Owen County,1
-Columbua,1
-Dyer,1
-McLean,1
-Goodview,1
-Roanoke County,1
-South Hill,1
-Woolwine,1
-Bridgewater,1
-Coeburn,1
-Old Bridge,1
-Amherst County,1
-Ideal Beach,1
-Lyndhurst,1
-Byram,1
-Brick Township,1
-Little Egg Harbor,1
-New Brunswick,1
-Luray,1
-Grottoes,1
-Maurice River,1
-Hinton,1
-Hiltons,1
-Wytheville,1
-Richmond County,1
-Chase City,1
-Mecklenburg,1
+Lovington,1
+Midwest City,1
+Hominy,1
+Colbert,1
+Pryor,1
+Healdton,1
+Lake Mead,1
+Eureka County,1
+Summerlin,1
+Lovelock,1
+Washoe,1
+Yerington,1
+Silver Springs,1
+Mercury,1
+West Wendover,1
+Stead,1
+Sunridge,1
+Schulter,1
+Spanish Springs,1
+Byng,1
+Rush Springs,1
+Gardnerville Ranchos,1
+Boulder City,1
+Wetumka,1
+Leedey,1
+Flossmoor,1
+Naperville,1
+Romeoville,1
+Albert Lea,1
+St. Louis Park,1
+Miltona,1
+Montrose County,1
+Federal Heights,1
+Suffolk,1
+Grayson County,1
+Pleasant View,1
+North Fort Collins,1
+King George,1
+Powhatan County,1
+Golden,1
+Valdez,1
+Emporia,1
+Highlands Ranch,1
+Cape Girardeau County,1
+Platte County,1
+Bonne Terre,1
+Fort Morgan,1
+Hermitage,1
+Wentzville,1
+Diggins,1
+Webb City,1
+Stockton Lake,1
+De Soto,1
+Clear Creek Canyon,1
+Kimberling City,1
+Chillicothe,1
+Gunnison County,1
+Rangley,1
+Adrian,1
+Webster Groves,1
+Raytown,1
+Arvonia,1
+Park County,1
+Coon Rapids,1
+Fredericksburg,1
 Buchanan,1
-Colonial Heights,1
-Langley,1
-Dumfries,1
-Goochland County,1
-Caroline County,1
-Martinsville,1
-Stanley,1
-King George County,1
-Little Egg Harbor Township,1
-Bridgeton,1
-Fishers,1
-West New York,1
-Mantua Township,1
-Hillsborough,1
-Long Branch,1
-Knowlton Township,1
-Keansburg,1
-Plainsboro,1
-Monon,1
-Bayonne,1
-Beech Grove,1
-French Lick,1
-Knox,1
-English,1
-Vincennes,1
-Goshen,1
-Leonia,1
-Buena Vista,1
-Toms River,1
-Logan Township,1
-Cranbury Township,1
-North Bergen,1
-Bloomfield,1
-Brick,1
-Deptford,1
-Mantoloking,1
-Passaic,1
-Morris Township,1
-Pemberton,1
-Irvington,1
-Farmingdale,1
-Secaucus,1
-Wayne,1
-Bass River,1
-Elgin,1
-Rock Falls,1
-Maeystown,1
-Jerseyville,1
-Cooke County,1
-Duncanville,1
-Falfurrias,1
-Port Neches,1
-Beeville,1
-Vinton,1
-Green,1
-Findlay,1
-Southington,1
-Mt. Auburn,1
-Twinsburg,1
-Zanesville,1
-Richmond Heights,1
-Northwood,1
-Perry Township,1
-Uvalde,1
-Seabrook,1
-Dime Box,1
-Crosby,1
-Mount Pleasant,1
-Alvarado,1
-Forest Hill,1
-Flour Bluff,1
-Horizon City,1
-Seguin,1
-Pflugerville,1
-Sugar Land,1
-Snook,1
-Simms,1
-Wichita  Falls,1
-Beasley,1
-Clear Lake Shores,1
-Hutchinson County,1
-Fairborn,1
-Oak Hill,1
-Circleville,1
-Struthers,1
-Washington Court House,1
-Hilltop,1
-Apple Creek,1
-Niles,1
-Barberton,1
-Defiance,1
-Sugarcreek,1
-Delaware,1
-Elyria,1
-Van Wert,1
-Wadsworth,1
-Ashtabula Township,1
-Alliance,1
-Powatan Point,1
-Pike County,1
-Martins Ferry,1
-Rome,1
-Euclid,1
-Westlake,1
-Willoughby,1
-North Royalton,1
-Howland Township,1
-Geneva Township,1
-Medina,1
-Colebrook Township,1
-Girard,1
-Tiffin,1
-St. Clair Township,1
-Vandalia,1
-Uniontown,1
-New Straitsville,1
-Steubenville,1
-Cypress,1
-Wylie,1
-Lacy Lakeview,1
-Greenspoint,1
-Progreso,1
-Crowell,1
-Camp Wood,1
-Bedford,1
-Winters,1
-Littlefield,1
-Childress,1
-Cedar Lake,1
-Vernon,1
-Sandia,1
-Mathis,1
-Rio Bravo,1
-Dumas,1
-Silsbee,1
-The Colony,1
-Kingwood,1
-Dilley,1
-Midlothian,1
-Gilmer,1
-Fritch,1
-Fort Stockton,1
-Panhandle,1
-Terrell,1
-Grand Prarie,1
-Cisco,1
-Rockwall,1
-Whitewright,1
-Balch Springs,1
-Gonzales County,1
-Channelview,1
-Watagua,1
-La Porte,1
-Galveston,1
-Alvin,1
-Baylor County,1
-Giddings,1
-Marshall,1
-Floresville,1
-Cloverleaf,1
-Humble,1
-Elmendorf,1
-Refugio,1
-Wolfe City,1
-Kountze,1
-Riesel,1
-Nederland,1
-Tyler,1
-Brewster County,1
-Cass County,1
-Cherokee County,1
-Sweetwater,1
-Sanger,1
-Pattison,1
-Cochran County,1
-Hereford,1
-Missouri City,1
-Quinlan,1
-Poteet,1
-Quanah,1
-Burnet,1
-Canutillo,1
-Plainview,1
-Dalhart,1
-Watauga,1
-Hopkins County,1
-Seminole,1
-Bacliff,1
-Bracketville,1
-Hockingport,1
-Butler Township,1
-Elmwood Place,1
-Mena,1
-Murray,1
-Grantsville,1
-South Jordan,1
-Strong,1
-England,1
-Mountain Pine,1
-Sims,1
-Tooele,1
-Desha,1
-Bull Shoals,1
-Sheridan,1
-Yellville,1
-Rose Bud,1
-Romance,1
-Herriman,1
-Midvale,1
-Searcy County,1
-Magna,1
-Milcreek,1
-Eagle Mountain,1
-Logan Canyon,1
-Aragonite,1
-Montezuma Creek,1
-Sandy,1
-Sugar House,1
-Bountiful,1
-Cottonwood Heights,1
-Layton,1
-Cedar City,1
-Emery County,1
-Millcreek,1
-Holladay,1
-Lone Rock,1
-Helena-West Helena,1
-Parowan,1
-Lisle,1
-Conway,1
-Rogers,1
-Wynne,1
-Arcola,1
-River Forest,1
-Rantoul,1
-Shawnee National Forest,1
-Harrison,1
-Washington Park,1
-East St. Louis,1
-Round Lake,1
-Markham,1
-North Riverside,1
-Lyons,1
-Lonoke,1
-Green Forest,1
-Hackett,1
-Blytheville,1
-Mississippi County,1
-Trumann,1
-Van Buren,1
-Magnolia,1
-Pope County,1
-Rector,1
-Formosa,1
-Hot Springs,1
-Helena,1
-Bryant,1
-St. Francis County,1
-Alexander,1
-Hot Spring,1
-Sparkman,1
-Logan,1
-Roosevelt,1
-New Lyme Township,1
-Plaquemine,1
-Winnsboro,1
-Pride,1
-Ragley,1
-Port Barre,1
-Raceland,1
-Gretna,1
-Livingston Parish,1
-Marksville,1
-Kenner,1
-Converse,1
-Cade,1
-Mamou,1
-Homer,1
-Coushatta,1
-Breaux Bridge,1
-Mandeville,1
-Bernice,1
-Youngstown,1
-Washington Township,1
-Liberty Township,1
-Bethel Township,1
-Ravenna Township,1
-Nelsonville,1
-Leroy Township,1
-Huber Heights,1
-Lakes Charles,1
-Windham Township,1
-Gurnsey County,1
-Mason,1
-Clearcreek Township,1
-Evangeline Parish,1
-Chalmette,1
-Lincoln Parish,1
-West Ouachita,1
-Draper,1
-Berwick,1
-Jefferson Parish,1
-Tangipahoa Parish,1
-Montegut,1
-Mount Hermon,1
-Red River Parish,1
-Madison Parish,1
-Doyline,1
-Iota,1
-Westwego,1
-Wisner,1
-Vernon Parish,1
-Fordoche,1
-Marrero,1
-Assumption Parish,1
-Caddo Parish,1
-Keithville,1
-Gibson,1
-Amite,1
-St. Tammany Parish,1
-West Monroe,1
-Bogalusa,1
-New Llano,1
-Goodbee,1
-Haughton,1
-Hammond,1
-St. Helena Parish,1
-Treme,1
-DeRidder,1
-Bastrop,1
-Port Allen,1
-Lacombe,1
-Ethel,1
+Mecklenburg,1
+Chase City,1
+Richmond County,1
+O'Brien,1
+Wytheville,1
+Hiltons,1
+Farmville,1
+Wythe County,1
+Montgomery County,1
+Dinosaur,1
+Sussex County,1
+Cañon City,1
+Glade Spring,1
+Eldorado Springs,1
+Spotsylvania,1
+Strasburg,1
+Broomfield,1
+Lynchburg,1
+Charlottesville,1
+Mountain View,1
+Haymarket,1
+Woodford,1
+Herndon,1
+Pearisburg,1
+Falls Church,1
+Aldie,1
+Stafford,1
+Grundy,1
+Wheeling,1
+Old Mines,1
+Cuba,1
+Longmont,1
+Loma,1
+Fort Carson,1
+Lee's Summit,1
+Holyoke,1
+Republic,1
+Maysville,1
+Lampe,1
+Lakeshire,1
+Clear Creek County,1
+Hotchkiss,1
+El Paso County,1
+Bowlus,1
+Chisholm,1
+Forest Lake,1
+Mounds View,1
+Olivia,1
+Canon City,1
+Peyton,1
+Anoka,1
+Braham,1
+Robbinsdale,1
+Mountain Iron,1
+Pine County,1
+Chaska,1
+Backus,1
+Lakeville,1
+Richfield,1
+Gunnison,1
+Hermantown,1
+Fruita,1
+Harrisonville,1
+McDowell,1
+Watkins,1
+Holt,1
+LaSalle,1
+Lone Tree,1
+Barton County,1
+Pettis County,1
+Maryland Heights,1
+Cotter,1
+Mountain Grove,1
+Friendly Hills,1
+Leadwood,1
+Hayti,1
+Rifle,1
+Everton,1
+Johnson County,1
+Big Bear,1
+Glenwood Springs,1
+Orchard Mesa,1
+Monett,1
+Blue Summit,1
+Neosho,1
+Brandon,1
+Nevada,1
+Affton,1
+Idaho Springs,1
+Cape Girardeau,1
+Florissant,1
+Durango,1
+North St. Louis,1
 Woonsocket,1
