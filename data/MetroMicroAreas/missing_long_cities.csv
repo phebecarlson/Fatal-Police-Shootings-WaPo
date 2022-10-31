@@ -1,0 +1,659 @@
+city,state,0
+Los Angeles,CA,17
+Phoenix,AZ,15
+Houston,TX,9
+New York,NY,8
+Albuquerque,NM,7
+San Antonio,TX,6
+Harris County,TX,6
+Detroit,MI,5
+Kansas City,MO,5
+Louisville,KY,5
+Spokane,WA,5
+Charlotte,NC,5
+Philadelphia,PA,4
+Oklahoma City,OK,4
+Las Vegas,NV,4
+Tucson,AZ,4
+Lake Charles,LA,4
+Mesa,AZ,4
+Cleveland,OH,3
+Memphis,TN,3
+Chicago,IL,3
+Glendale,AZ,3
+Portland,OR,3
+Ogden,UT,3
+Springfield,MO,3
+Pueblo,CO,3
+Wasilla,AK,3
+Nashville,TN,3
+Columbus,OH,3
+Colorado Springs,CO,3
+Salem,OR,2
+Sacramento,CA,2
+Salt Lake City,UT,2
+San Bernardino,CA,2
+Dallas,TX,2
+Stockton,CA,2
+San Diego,CA,2
+San Francisco,CA,2
+Savannah,GA,2
+Corpus Christi,TX,2
+Rushville,IN,2
+Columbia,MO,2
+South Bend,IN,2
+Spartanburg,SC,2
+St. Cloud,FL,2
+Seattle,WA,2
+Evansville,IN,2
+Denver,CO,2
+Huntington Park,CA,2
+Long Beach,CA,2
+Lincoln,NE,2
+Lawton,OK,2
+Lancaster,CA,2
+Lakewood,CO,2
+Lacey,WA,2
+Killeen,TX,2
+Minneapolis,MN,2
+Jonesboro,AR,2
+Jacksonville,FL,2
+Indianapolis,IN,2
+Honolulu,HI,2
+Rialto,CA,2
+Hemet,CA,2
+Newnan,GA,2
+Oxford,AL,2
+Pasadena,CA,2
+Frankfort,KY,2
+Fort Worth,TX,2
+Ferguson,MO,2
+Caldwell,ID,2
+Puyallup,WA,2
+Elizabethtown,KY,2
+Rancho Cucamonga,CA,2
+Carlsbad,NM,2
+Dothan,AL,2
+Wheat Ridge,CO,2
+Waterloo,IA,2
+Baton Rouge,LA,2
+Tulsa,OK,2
+Winter Haven,FL,2
+Akron,OH,2
+Aurora,CO,2
+Atlanta,GA,2
+Aiken,SC,2
+Birmingham,AL,2
+Blue Springs,MO,2
+Barstow,CA,2
+Arvada,CO,2
+Oak Harbor,WA,1
+North Richmond,CA,1
+North Pole,AK,1
+North Branch,MN,1
+North Platte,NE,1
+North Middleton,PA,1
+North Little Rock,AR,1
+North Lauderdale,FL,1
+North Charleston,SC,1
+Oakland,CA,1
+Ocala,FL,1
+Wilcox,AZ,1
+Nipton,CA,1
+North Bend,WA,1
+Wildomar,CA,1
+Newburgh,NY,1
+Willis,VA,1
+New Underwood,SD,1
+New Orleans,LA,1
+New Lenox,IL,1
+New Berlin,WI,1
+Nelsonville,OH,1
+Natomas,CA,1
+National City,CA,1
+Willits,CA,1
+Odessa,TX,1
+Okemah,OK,1
+Oil Springs,KY,1
+Parkland,WA,1
+Philipsburg,MT,1
+Wheeling,MO,1
+Whitby,WV,1
+Perdido,AL,1
+Pensacola,FL,1
+Pembine,WI,1
+Pearson,GA,1
+Paulden,AZ,1
+Paterson,NJ,1
+Paso Robles,CA,1
+Pasco,WA,1
+Pasadena,TX,1
+White Lake,SD,1
+Parmelee,SD,1
+Papaaloa,HI,1
+Oildale,CA,1
+Panhandle,TX,1
+Panama City,FL,1
+Palmer,AK,1
+Oxford,MA,1
+Whitehall,LA,1
+Wichita  Falls,TX,1
+Ouachita Parish,LA,1
+Orofino,ID,1
+Orem,UT,1
+Orangeville Township,MI,1
+Ontario,CA,1
+Old Town,ME,1
+Old Forge,PA,1
+Wichita Falls,TX,1
+Myrtle Beach,SC,1
+Topeka,KS,1
+Wilmington,CA,1
+Martin County,KY,1
+Mesquite,TX,1
+Woolwine,VA,1
+Yazoo City,MS,1
+Meridian,MS,1
+Merced,CA,1
+Yorkville,IL,1
+Melbourne,FL,1
+Meadowlake,NM,1
+McLean,VA,1
+Mason County,KY,1
+Youngstown,OH,1
+Mason,OH,1
+Maryville,TN,1
+Marysville,CA,1
+Marrero,LA,1
+Metairie,LA,1
+Marietta,GA,1
+Margate,FL,1
+Marana,AZ,1
+Mapleton,ND,1
+Manila,AR,1
+Madisonville,TN,1
+Madisonville,OH,1
+Madison Parish,LA,1
+Madison County,MO,1
+Madison,TN,1
+Luverne,AL,1
+Yreka,CA,1
+Ludlow,VT,1
+Loyal,WI,1
+Woodlawn,MD,1
+Miami,FL,1
+Murphy,ID,1
+Monongalia,WV,1
+Mount Pleasant,TX,1
+Mount Hermon,LA,1
+Wilmington,DE,1
+Mounds View,MN,1
+Morrow,GA,1
+Morgan County,KY,1
+Wilmington,NC,1
+Moreno Valley,CA,1
+Montgomery Creek,KY,1
+Montgomery,WV,1
+Winstom-Salem,NC,1
+Monterey Park,CA,1
+Montcalm,WV,1
+Monroe,OH,1
+Monongahela,PA,1
+Miami Springs,FL,1
+Monahans,TX,1
+Mississippi County,AR,1
+Mishawaka,IN,1
+Winter Park,FL,1
+Winthrop,MA,1
+Mingo County,WV,1
+Milwaukee,WI,1
+Wise County,VA,1
+Milpitas,CA,1
+Milford,MA,1
+Middleton,WI,1
+Wisner,LA,1
+Miami-Dade County,FL,1
+Wood River,IL,1
+Mulberry,FL,1
+Pine River,WI,1
+Pilot Station,AK,1
+South Hill,VA,1
+Sioux Falls,SD,1
+Snellville,GA,1
+Sodus,NY,1
+Solvang,CA,1
+Somerton,AZ,1
+Vici,OK,1
+South Jordan,UT,1
+Pine Hills,FL,1
+South Knoxville,TN,1
+Vernon Parish,LA,1
+South Lake Tahoe,CA,1
+South Ogden,UT,1
+South Salt Lake,UT,1
+Ventana Ranch,NM,1
+Sioux City,IA,1
+Simms,TX,1
+Victorville,CA,1
+Vineland,NJ,1
+Silver Spring,MD,1
+Visalia,CA,1
+Shirley,AR,1
+Shepherdsville,KY,1
+Shelby Township,MI,1
+Shelby,MT,1
+Sergeant Bluff,IA,1
+Selma,IN,1
+Seekonk,MA,1
+Wagoner County,OK,1
+Walpole,NH,1
+Scott County,VA,1
+Walton,IN,1
+Vancouver,WA,1
+Spokane Valley,WA,1
+Springfield,MA,1
+Sweetwater,TX,1
+Toccoa,GA,1
+Titusville,FL,1
+Traphill,NC,1
+Three Points,AZ,1
+Thousand Oaks,CA,1
+Thomaston,GA,1
+Terre Haute,IN,1
+Tempe,AZ,1
+Trumann,AR,1
+Taylorsville,UT,1
+Tampa,FL,1
+Tallahassee,FL,1
+Talladega,AL,1
+Sylvania,GA,1
+Sumter,SC,1
+University City,MO,1
+Summerlin,NV,1
+Strasburg,VA,1
+Stovall,NC,1
+Stone County,AR,1
+Stockton Lake,MO,1
+Tunbridge,VT,1
+Stillwater County,MT,1
+Stead,NV,1
+St. Petersburg,FL,1
+Tuscumbia,AL,1
+St. Louis,MO,1
+St. Joseph,MI,1
+Union Township,PA,1
+St. Charles County,MO,1
+Sarasota,FL,1
+Saranac Lake,NY,1
+Santa Fe,NM,1
+Port Richey,FL,1
+Rapid City,SD,1
+Rancho Mirage,CA,1
+West Terre Haute,IN,1
+Westminster,CO,1
+Ramseur,NC,1
+Raleigh,NC,1
+Quanah,TX,1
+Westmoreland,TN,1
+Pueblo West,CO,1
+Westwego,LA,1
+Prescott,AZ,1
+Powatan Point,OH,1
+Wethersfield,CT,1
+Port Salerno,FL,1
+Port Neches,TX,1
+Reading Township,MI,1
+Port Barrington,IL,1
+Poplar Bluff,MO,1
+Pope County,AR,1
+Wetumpka,AL,1
+Ponca City,OK,1
+Pomona,CA,1
+Polk County,FL,1
+Pocono Township,PA,1
+Pocahontas County,WV,1
+Pleasanton,CA,1
+Plano,TX,1
+Plainsboro,NJ,1
+Placentia,CA,1
+Toledo,OH,1
+Raytown,MO,1
+Rex,GA,1
+Santa Clara,CA,1
+Rowland,NC,1
+San Rafael,NM,1
+San Jose,CA,1
+Warner Robins,GA,1
+Warwick,RI,1
+Washington,DC,1
+San Angelo,TX,1
+Salisbury,NC,1
+Salinas,CA,1
+Waterloo,SC,1
+Salcha,AK,1
+Waverly,GA,1
+Rutland,VT,1
+Waynesboro,MS,1
+Rush Springs,OK,1
+Roswell,NM,1
+West Memphis,AR,1
+Roseville,CA,1
+Romance,AR,1
+Rogers,AR,1
+Rochester,MN,1
+Roanoke County,VA,1
+West Brattleboro,VT,1
+West Covina,CA,1
+Roan Mountain,TN,1
+Riverview,FL,1
+Rio Rico,AZ,1
+West Jordan,UT,1
+Richmond,CA,1
+Richland Hills,TX,1
+Richfield,MN,1
+300 block of State Line Road,TN,1
+Las Cruces,NM,1
+Lorain,OH,1
+Clinton,LA,1
+Clark County,WI,1
+Clarksville,IN,1
+Clarksville,TN,1
+Clarkville,TN,1
+Clear Creek County,CO,1
+Cleveland,TN,1
+Clines Corners,NM,1
+Clinton,UT,1
+Longmont,CO,1
+Clinton County,OH,1
+Coachella,CA,1
+Cochran County,TX,1
+Cocoa,FL,1
+Coeur d’Alene,ID,1
+College Station,TX,1
+Colonial Heights,VA,1
+Claremore,OK,1
+Claiborne County,TN,1
+Citrus Heights,CA,1
+Chinle,AZ,1
+Cedar Hill,MO,1
+Centennial,CO,1
+Centerville,IA,1
+Champaign,IL,1
+Chandler,AZ,1
+Chaparral,NM,1
+Charleston View,CA,1
+Chase City,VA,1
+Chaves County,NM,1
+Chehalis,WA,1
+Chesterfield County,SC,1
+Chetopa,KS,1
+Chico,CA,1
+Childress,TX,1
+Chillicothe,MO,1
+Columbus,GA,1
+Commerce,CA,1
+Compton,CA,1
+Cumberland County,TN,1
+Dallas,OR,1
+Daly City,CA,1
+Darlington County,SC,1
+Davenport,FL,1
+Dayton,OH,1
+Daytona Beach,FL,1
+DeKalb County,TN,1
+DeSoto County,MS,1
+Dearborn,MI,1
+Decatur,AL,1
+Del Rio,TX,1
+Demming,NM,1
+Demopolis,AL,1
+Denton,TX,1
+Denton County,TX,1
+Cuthbert,GA,1
+Culver,IN,1
+Concord,NC,1
+Cuba,MO,1
+Cookson,OK,1
+Coral Gables,FL,1
+Cordova,TN,1
+Corona,CA,1
+Costa Mesa,CA,1
+Cottonwood,AL,1
+Covington,GA,1
+Crandon,WI,1
+Crawford County,GA,1
+Crawfordsville,IN,1
+Crofton,MD,1
+Crook County,WY,1
+Crosby,TX,1
+Crowell,TX,1
+Crowley,LA,1
+Cave Junction,OR,1
+Cave City,KY,1
+Casper,WY,1
+Atkins,AR,1
+Augusta,WV,1
+Austin,MN,1
+Azusa,CA,1
+Bahama,NC,1
+Bainbridge,GA,1
+Bainbridge Island,WA,1
+Bakersfield,CA,1
+Baltimore,MD,1
+Bartholomew County,IN,1
+Basin,WY,1
+Battle Ground,WA,1
+Baylor County,TX,1
+Baytown,TX,1
+Beaumont,CA,1
+Beaver Dam,AZ,1
+Augusta,GA,1
+Ashland,CA,1
+Bessemer City,NC,1
+Asheville,NC,1
+Adrian,MO,1
+Alamosa,CO,1
+Alexandria,VA,1
+Algona,WA,1
+Alvarado,TX,1
+Alvo,NE,1
+Anaheim,CA,1
+Anderson County,SC,1
+Antioch,CA,1
+Antlers,OK,1
+Appleton,WI,1
+Aragon,GA,1
+Aransas Pass,TX,1
+Araphoe County,CO,1
+Arleta,CA,1
+Beeville,TX,1
+Bethel Springs,TN,1
+Cartersville,GA,1
+Brunswick,OH,1
+Buckeye,AZ,1
+Buckhannon,WV,1
+Buffalo,NY,1
+Buffalo Grove,IL,1
+Buford,GA,1
+Bull Shoals,AR,1
+Bulls Gap,TN,1
+Burkesville,KY,1
+Burlington,MA,1
+Byron,GA,1
+Calumet City,IL,1
+Campo,CA,1
+Canetuck,NC,1
+Canton,GA,1
+Canton,OH,1
+Buchanan,VA,1
+Brooklyn,NY,1
+Bettendorf,IA,1
+Brookline,MA,1
+Big Lake,AK,1
+Bigfork,MT,1
+Billings,MT,1
+Biloxi,MS,1
+Bismarck,ND,1
+Black River Falls,WI,1
+Blount County,AL,1
+Boerne,TX,1
+Boise,ID,1
+Bolingbrook,IL,1
+Bossier City,LA,1
+Bradley,WV,1
+Braham,MN,1
+Braintree,MA,1
+Brockton,MA,1
+Dexter,KY,1
+Dolgeville,NY,1
+Dorchester,MA,1
+Holy Cross,AK,1
+Horn Lake,MS,1
+Hudson,FL,1
+Huntingdon County,PA,1
+Huntington Beach,CA,1
+Huntsville,AL,1
+Huntsville,UT,1
+Hurricane,WV,1
+Iowa Falls,IA,1
+Jackson,MS,1
+Jackson,TN,1
+Jacksonville,MO,1
+Jefferson City,MO,1
+Jennings,MO,1
+Jim Thorpe,PA,1
+Jonesboro,LA,1
+Homer,LA,1
+Holly Springs,GA,1
+Kalamazoo,MI,1
+Hillsboro,OH,1
+Gurnsey County,OH,1
+Hallandale Beach,FL,1
+Hampton,NH,1
+Hanover Township,PA,1
+Hattiesburg,MS,1
+Haynesville,AL,1
+Hayti,MO,1
+Hazle Township,PA,1
+Heath Township,MI,1
+Henrico County,VA,1
+Henry County,GA,1
+Hermantown,MN,1
+Hermitage,MO,1
+Hernando,FL,1
+High Point,NC,1
+Joplin,MO,1
+Kansas City,KS,1
+Gunnison,CO,1
+Adel,GA,1
+Lawrenceburg,IN,1
+Lebanon,OH,1
+Leedey,OK,1
+Leesburg,FL,1
+Leroy Township,OH,1
+Lewistown,MT,1
+Lexington,MA,1
+Liberty,IN,1
+Lincoln CIty,OR,1
+Lincoln County,NC,1
+Lithonia,GA,1
+Loganville,GA,1
+Loma,CO,1
+Loma Linda,CA,1
+London,AR,1
+Laurel,MS,1
+Larimer County,CO,1
+Keansburg,NJ,1
+Largo,FL,1
+Kennard,IN,1
+Key Largo,FL,1
+Kimberling City,MO,1
+Kingman,AZ,1
+Knoxville,TN,1
+Lafayette,LA,1
+Lake Havasu,AZ,1
+Lake Placid,FL,1
+Lakeland,FL,1
+Lame Deer,MT,1
+Lamont,CA,1
+Lander,WY,1
+Langley,VA,1
+Laramie,WY,1
+Laredo,TX,1
+Gunnison County,CO,1
+Grottoes,VA,1
+Douglas,AZ,1
+Evans County,GA,1
+Fairbanks,AK,1
+Fairmont,WV,1
+Fall River,MA,1
+Fargo,ND,1
+Fayetteville,NC,1
+Flagstaff,AZ,1
+Flathead County,MT,1
+Floral City,FL,1
+Florence County,SC,1
+Flossmoor,IL,1
+Floyd County,KY,1
+Fontana,CA,1
+Fordoche,LA,1
+Forest Hill,TX,1
+Forest Lake,MN,1
+Everton,MO,1
+Eutawville,SC,1
+Fort Myers,FL,1
+Eureka County,NV,1
+Douglas City,CA,1
+Douglas County,GA,1
+Douglas County,MO,1
+Doña Ana County,NM,1
+Durham,NC,1
+Eaton County,MI,1
+El Paso,TX,1
+El Paso County,CO,1
+El Sereno,CA,1
+Elkhart,IN,1
+Elmore County,AL,1
+Englewood,CO,1
+Escondido,CA,1
+Estancia,NM,1
+Eufaula,AL,1
+Fort Dodge,IA,1
+Foster Township,PA,1
+Gresham,OR,1
+Glen Burnie,MD,1
+Globe,AZ,1
+Goodyear,AZ,1
+Gordon County,GA,1
+Grand Forks,ND,1
+Grand Prairie,TX,1
+Grandview,MO,1
+Grant,OK,1
+Grant-Valkaria,FL,1
+Great Falls,MT,1
+Greene Township,PA,1
+Greenfield,IN,1
+Greensboro,NC,1
+Greenville,SC,1
+Greenville,TX,1
+Greenville County,SC,1
+Glenwood,GA,1
+Girard,OH,1
+Fox Crossing,WI,1
+Gillette,WY,1
+Frametown,WV,1
+Franklin County,OH,1
+Franklin County,TN,1
+Franklinton,OH,1
+Fresno,CA,1
+Fruithurst,AL,1
+Fulton County,IL,1
+Gainesville,GA,1
+Gaitherburg,MD,1
+Galesburg,MI,1
+Garden City,MO,1
+Garland,TX,1
+Gastonia,NC,1
+Georgetown County,SC,1
+Ghent,KY,1
+Yucca Valley,CA,1
