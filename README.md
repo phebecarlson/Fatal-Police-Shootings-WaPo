@@ -1,5 +1,7 @@
 # Fatal-Police-Shootings-WaPo
  
+Video Presentation can be found here: https://www.youtube.com/watch?v=IfaNP90wN-k
+ 
 Fatal police shootings are more prevalent in the United States than the rest of the developed world. The Washington Post discovered in 2015 that the FBI records of police shootings were missing 50% of the total shootings deaths at the hands of police. In response, they created their own database from reporting and public records requests. 
 Their methodology can be found here: https://www.washingtonpost.com/national/how-the-washington-post-is-examining-police-shootings-in-the-united-states/2016/07/07/d9c52238-43ad-11e6-8856-f26de2537a9d_story.html
 
